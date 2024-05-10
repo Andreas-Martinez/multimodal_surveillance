@@ -1,0 +1,682 @@
+SampleID,Site,Room #,Date,Entry,SamplerStart,SamplerEnd,SamplerNumber,Location,CollectionMethod,Notes,N,ORF1ab,S,MS2,Result,Ct,isobuild,isonwing,isoswing,quarbuild,quarnwing,quarswing,isostack49,quarstack49,buildingcensus,stacktotal,Day,segment
+700,Barnhart,Lobby,1/24/2021,NA,845,1130,9,TF,PUF,NA,22.2,No Amp,17.9,20.8,Positive (2/3),26.7,0,,,1,1,,,,1,0,0,posrec
+3570,Barnhart,Lobby,2/7/2021,3,1505,1704,3,TF,PUF,NA,26,23.7,No Amp,26.6,Positive (2/3),29.9,47,32,15,40,26,14,1,,87,1,1,aftertrac
+3574,Barnhart,Lobby,2/7/2021,4,1706,1904,3,TF,PUF,NA,29.4,No Amp,No Amp,27.9,Negative,36.5,47,32,15,40,26,14,1,,87,1,1,aftertrac
+6066,Barnhart,Lobby,3/20/2021,97,1105,1110,3,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,NA,NA,NA,NA,NA,NA,0,0,,3,,3,,,3,0,42,overnight
+3529,Barnhart,Lobby,2/7/2021,2,1255,1505,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,47,32,15,40,26,14,1,,87,1,1,tracerec
+3530,Barnhart,Lobby,2/7/2021,2,NA,1505,3,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,47,32,15,40,26,14,1,,87,1,1,
+3531,Barnhart,Lobby,2/7/2021,2,NA,1505,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,47,32,15,40,26,14,1,,87,1,1,
+3532,Barnhart,Lobby,2/7/2021,2,NA,1505,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,47,32,15,40,26,14,1,,87,1,1,
+3571,Barnhart,Lobby,2/7/2021,3,NA,1704,3,Next to TFS,Settling Plate,NA,26.5,No Amp,No Amp,No Amp,Negative,35.5,47,32,15,40,26,14,1,,87,1,1,
+3572,Barnhart,Lobby,2/7/2021,3,NA,1704,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,47,32,15,40,26,14,1,,87,1,1,
+3573,Barnhart,Lobby,2/7/2021,3,NA,1704,3,Door West,Settling Plate,NA,25.7,No Amp,No Amp,No Amp,Negative,35.2,47,32,15,40,26,14,1,,87,1,1,
+3575,Barnhart,Lobby,2/7/2021,4,NA,1904,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,47,32,15,40,26,14,1,,87,1,1,
+3576,Barnhart,Lobby,2/7/2021,4,NA,1904,3,Door South,Settling Plate,NA,26.2,No Amp,No Amp,No Amp,Negative,35.4,47,32,15,40,26,14,1,,87,1,1,
+3577,Barnhart,Lobby,2/7/2021,4,NA,1904,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,47,32,15,40,26,14,1,,87,1,1,
+3742,Barnhart,Lobby,2/8/2021,8,1506,1701,3,TF,PUF,NA,29.6,No Amp,No Amp,28.3,Negative,36.5,52,36,16,41,26,15,1,,93,1,2,aftertrac
+3784,Barnhart,Lobby,2/8/2021,9,1705,2121,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.5,Negative,40,52,36,16,41,26,15,1,,93,1,2,aftertrac
+3660,Barnhart,Lobby,2/8/2021,7,1100,1308,3,TF,PUF,NA,29.7,No Amp,No Amp,28.8,Negative,36.6,52,36,16,41,26,15,1,,93,1,2,between
+6067,Barnhart,Lobby,3/20/2021,97,1105,1110,4,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,No Amp,Negative,40,0,0,,3,,3,,,3,0,42,overnight
+3638,Barnhart,Lobby,2/8/2021,6,900,1100,3,TF,PUF,NA,29,No Amp,26.5,28.6,Positive (2/3),31.9,52,36,16,41,26,15,1,,93,1,2,posrec
+3701,Barnhart,Lobby,2/8/2021,8,1308,1506,3,TF,PUF,NA,27.1,No Amp,No Amp,27.3,Negative,35.7,52,36,16,41,26,15,1,,93,1,2,tracerec
+3580,Barnhart,Lobby,2/8/2021,5,NA,858,3,Door South,Settling Plate,NA,34,No Amp,No Amp,27.5,Negative,38,52,36,16,41,26,15,1,,93,1,2,
+3581,Barnhart,Lobby,2/8/2021,5,NA,858,3,Door West,Settling Plate,NA,29.7,No Amp,No Amp,28.6,Negative,36.6,52,36,16,41,26,15,1,,93,1,2,
+3641,Barnhart,Lobby,2/8/2021,6,NA,1100,3,Door West,Settling Plate,NA,30.3,No Amp,No Amp,26.9,Negative,36.8,52,36,16,41,26,15,1,,93,1,2,
+3702,Barnhart,Lobby,2/8/2021,8,NA,1506,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25.3,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3703,Barnhart,Lobby,2/8/2021,8,NA,1506,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,23,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3704,Barnhart,Lobby,2/8/2021,8,NA,1506,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.2,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3744,Barnhart,Lobby,2/8/2021,8,NA,1703,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.8,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3745,Barnhart,Lobby,2/8/2021,8,NA,1704,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.8,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3785,Barnhart,Lobby,2/8/2021,9,NA,NA,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,21.9,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3786,Barnhart,Lobby,2/8/2021,9,NA,NA,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.6,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3787,Barnhart,Lobby,2/8/2021,9,NA,NA,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.4,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3579,Barnhart,Lobby,2/8/2021,5,NA,858,3,Next to TFS,Settling Plate,NA,30.6,31,32,No Amp,Positive (3/3),31.2,52,36,16,41,26,15,1,,93,1,2,
+3639,Barnhart,Lobby,2/8/2021,6,NA,1100,3,Next to TFS,Settling Plate,both samples 3639 and 3640 placed in tube 3639,No Amp,No Amp,No Amp,No Amp,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3640,Barnhart,Lobby,2/8/2021,6,NA,1100,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3661,Barnhart,Lobby,2/8/2021,7,NA,1308,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3662,Barnhart,Lobby,2/8/2021,7,NA,1308,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3663,Barnhart,Lobby,2/8/2021,7,NA,1308,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,52,36,16,41,26,15,1,,93,1,2,
+3743,Barnhart,Lobby,2/8/2021,8,NA,1702,3,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,52,36,16,41,26,15,1,,93,1,2,
+3947,Barnhart,Lobby,2/9/2021,14,1700,1900,3,TF,PUF,NA,No Amp,No Amp,No Amp,25.1,Negative,40,62,45,17,43,26,17,1,,105,1,3,aftertrac
+3853,Barnhart,Lobby,2/9/2021,12,1100,1300,3,TF,PUF,NA,23,26.6,30.7,24.1,Positive (3/3),26.8,62,45,17,43,26,17,1,,105,1,3,between
+3924,Barnhart,Lobby,2/9/2021,14,1500,1700,3,TF,PUF,NA,23.1,No Amp,No Amp,25.9,Negative,34.4,62,45,17,43,26,17,1,,105,1,3,aftertrac
+6057,Barnhart,Lobby,3/19/2021,96,1202,1105,3,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,No Amp,Negative,40,0,0,,5,,5,,,5,0,41,overnight
+3820,Barnhart,Lobby,2/9/2021,11,800,1100,3,TF,PUF,NA,28.1,23.6,24.2,26.3,Positive (3/3),25.3,62,45,17,43,26,17,1,,105,1,3,posrec
+3885,Barnhart,Lobby,2/9/2021,13,1300,1500,3,TF,PUF,NA,32.1,32.5,33.5,26.8,Positive (3/3),32.7,62,45,17,43,26,17,1,,105,1,3,tracerec
+3789,Barnhart,Lobby,2/9/2021,10,NA,NA,3,Next to TFS,Settling Plate,NA,28.5,No Amp,No Amp,21.8,Negative,36.2,62,45,17,43,26,17,1,,105,1,3,
+3790,Barnhart,Lobby,2/9/2021,10,NA,NA,3,Door South,Settling Plate,NA,No Amp,No Amp,22.4,25.7,Negative,34.1,62,45,17,43,26,17,1,,105,1,3,
+3791,Barnhart,Lobby,2/9/2021,10,NA,NA,3,Door West,Settling Plate,NA,No Amp,25.1,No Amp,26.8,Negative,35,62,45,17,43,26,17,1,,105,1,3,
+3821,Barnhart,Lobby,2/9/2021,11,NA,1100,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.2,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3822,Barnhart,Lobby,2/9/2021,11,NA,1100,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3823,Barnhart,Lobby,2/9/2021,11,NA,1100,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3854,Barnhart,Lobby,2/9/2021,12,NA,1300,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,30.9,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3855,Barnhart,Lobby,2/9/2021,12,NA,1300,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3856,Barnhart,Lobby,2/9/2021,12,NA,1300,3,Door West,Settling Plate,NA,No Amp,No Amp,27.3,30,Negative,35.8,62,45,17,43,26,17,1,,105,1,3,
+3887,Barnhart,Lobby,2/9/2021,13,NA,1500,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,31.2,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3948,Barnhart,Lobby,2/9/2021,14,NA,1900,3,Next to TFS,Settling Plate,NA,32.1,No Amp,No Amp,27.1,Negative,37.4,62,45,17,43,26,17,1,,105,1,3,
+3949,Barnhart,Lobby,2/9/2021,14,NA,1900,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.5,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3886,Barnhart,Lobby,2/9/2021,13,NA,1500,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3888,Barnhart,Lobby,2/9/2021,13,NA,1500,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3925,Barnhart,Lobby,2/9/2021,14,NA,1700,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3926,Barnhart,Lobby,2/9/2021,14,NA,1700,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3927,Barnhart,Lobby,2/9/2021,14,NA,1700,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+3950,Barnhart,Lobby,2/9/2021,14,NA,1900,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,62,45,17,43,26,17,1,,105,1,3,
+4090,Barnhart,Lobby,2/10/2021,19,1505,1703,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.9,Negative,40,65,47,18,45,24,21,,1,110,1,4,aftertrac
+4112,Barnhart,Lobby,2/10/2021,19,1703,1902,3,TF,PUF,NA,No Amp,No Amp,No Amp,26.9,Negative,40,65,47,18,45,24,21,,1,110,1,4,aftertrac
+4026,Barnhart,Lobby,2/10/2021,17,1102,1306,3,TF,PUF,NA,29.8,No Amp,No Amp,27.5,Negative,36.6,65,47,18,45,24,21,,1,110,1,4,between
+4002,Barnhart,Lobby,2/10/2021,16,839,1102,3,TF,PUF,NA,26.3,No Amp,No Amp,26,Negative,35.4,65,47,18,45,24,21,,1,110,1,4,posrec
+4058,Barnhart,Lobby,2/10/2021,18,1306,1505,3,TF,PUF,NA,No Amp,No Amp,No Amp,26.5,Negative,40,65,47,18,45,24,21,,1,110,1,4,tracerec
+4003,Barnhart,Lobby,2/10/2021,16,NA,1102,3,Next to TFS,Settling Plate,NA,30.2,No Amp,No Amp,25.4,Negative,36.7,65,47,18,45,24,21,,1,110,1,4,
+4005,Barnhart,Lobby,2/10/2021,16,NA,1102,3,Door West,Settling Plate,NA,24.9,No Amp,20.9,27.6,Positive (2/3),28.6,65,47,18,45,24,21,,1,110,1,4,
+4061,Barnhart,Lobby,2/10/2021,18,NA,1505,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.3,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4092,Barnhart,Lobby,2/10/2021,19,NA,1703,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,28.8,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4093,Barnhart,Lobby,2/10/2021,19,NA,1703,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,24.6,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4113,Barnhart,Lobby,2/10/2021,19,NA,1902,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,26.7,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4114,Barnhart,Lobby,2/10/2021,19,NA,1902,3,Door South,Settling Plate,NA,33.7,No Amp,No Amp,27.5,Negative,37.9,65,47,18,45,24,21,,1,110,1,4,
+4115,Barnhart,Lobby,2/10/2021,19,NA,1902,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.5,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+3980,Barnhart,Lobby,2/10/2021,15,NA,839,3,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,65,47,18,45,24,21,,1,110,1,4,
+3981,Barnhart,Lobby,2/10/2021,15,NA,839,3,Door South,Settling Plate,NA,NA,NA,NA,NA,NA,NA,65,47,18,45,24,21,,1,110,1,4,
+3982,Barnhart,Lobby,2/10/2021,15,NA,839,3,Door West,Settling Plate,NA,NA,NA,NA,NA,NA,NA,65,47,18,45,24,21,,1,110,1,4,
+4004,Barnhart,Lobby,2/10/2021,16,NA,1102,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4027,Barnhart,Lobby,2/10/2021,17,NA,1306,3,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,65,47,18,45,24,21,,1,110,1,4,
+4028,Barnhart,Lobby,2/10/2021,17,NA,1306,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4029,Barnhart,Lobby,2/10/2021,17,NA,1306,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4059,Barnhart,Lobby,2/10/2021,18,NA,1505,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4060,Barnhart,Lobby,2/10/2021,18,NA,1505,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4091,Barnhart,Lobby,2/10/2021,19,NA,1703,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,65,47,18,45,24,21,,1,110,1,4,
+4237,Barnhart,Lobby,2/11/2021,23,1516,1720,3,TF,PUF,NA,27.9,No Amp,No Amp,26.7,Negative,36,69,51,18,46,20,26,,1,115,1,5,aftertrac
+4270,Barnhart,Lobby,2/11/2021,24,1720,1906,3,TF,PUF,NA,No Amp,No Amp,No Amp,26.7,Negative,40,69,51,18,46,20,26,,1,115,1,5,aftertrac
+4201,Barnhart,Lobby,2/11/2021,21,1117,1315,3,TF,PUF,NA,24.6,No Amp,23.7,26,Positive (2/3),29.5,69,51,18,46,20,26,,1,115,1,5,between
+4241,Barnhart,Roof,2/11/2021,1,1338,1710,5,Roof Exhaust TF,PUF,NA,29.9,28.8,25.5,28.2,Positive (3/3),28.1,69,51,18,46,20,26,,1,115,1,5,tracplus
+6058,Barnhart,Lobby,3/19/2021,96,1202,1105,4,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,32.8,No Amp,No Amp,27.3,Negative,37.6,0,0,,5,,5,,,5,0,41,overnight
+4169,Barnhart,Lobby,2/11/2021,20,820,1117,3,TF,PUF,NA,24.6,25,24.6,26.7,Positive (3/3),24.7,69,51,18,46,20,26,,1,115,1,5,posrec
+4233,Barnhart,Lobby,2/11/2021,22,1315,1516,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.2,Negative,40,69,51,18,46,20,26,,1,115,1,5,tracerec
+4135,Barnhart,Lobby,2/11/2021,20,NA,820,3,Next to TFS,Settling Plate,NA,25.5,30.8,25.5,27.2,Positive (3/3),27.3,69,51,18,46,20,26,,1,115,1,5,
+4136,Barnhart,Lobby,2/11/2021,20,NA,820,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.8,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4203,Barnhart,Lobby,2/11/2021,21,NA,1315,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,29.5,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4234,Barnhart,Lobby,2/11/2021,22,NA,1516,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,30.6,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4235,Barnhart,Lobby,2/11/2021,22,NA,1516,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,28.9,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4236,Barnhart,Lobby,2/11/2021,22,NA,1516,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.5,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4238,Barnhart,Lobby,2/11/2021,23,NA,1720,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.1,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4239,Barnhart,Lobby,2/11/2021,23,NA,1720,3,Door South,Settling Plate,NA,No Amp,30.1,No Amp,27,Negative,36.7,69,51,18,46,20,26,,1,115,1,5,
+4240,Barnhart,Lobby,2/11/2021,23,NA,1720,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.5,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4271,Barnhart,Lobby,2/11/2021,24,NA,1906,3,Next to TFS,Settling Plate,NA,No Amp,33.4,No Amp,28.7,Negative,37.8,69,51,18,46,20,26,,1,115,1,5,
+4272,Barnhart,Lobby,2/11/2021,24,NA,1906,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.9,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4273,Barnhart,Lobby,2/11/2021,24,NA,1906,3,Door West,Settling Plate,NA,27.4,19,21.6,22.8,Positive (3/3),22.7,69,51,18,46,20,26,,1,115,1,5,
+4170,Barnhart,Lobby,2/11/2021,20,NA,1117,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4171,Barnhart,Lobby,2/11/2021,20,NA,1117,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4202,Barnhart,Lobby,2/11/2021,21,NA,1315,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4204,Barnhart,Lobby,2/11/2021,21,NA,1315,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,51,18,46,20,26,,1,115,1,5,
+4288,Barnhart,Roof,2/12/2021,2,900,1110,5,Roof Exhaust TF,PUF,NA,28.6,23.4,No Amp,26.9,Positive (2/3),30.7,69,54,15,52,28,24,,1,121,1,6,posrec
+4304,Barnhart,Roof,2/12/2021,3,1110,1345,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,27.7,Negative,40,69,54,15,52,28,24,,1,121,1,6,other
+4306,Barnhart,Lobby,2/12/2021,27,1100,1300,3,TF,PUF,dirty linen bins being moved because of water leak construction,No Amp,No Amp,No Amp,28.6,Negative,40,69,54,15,52,28,24,,1,121,1,6,between
+4397,Barnhart,Roof,2/12/2021,4,1250,1820,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,tracplus
+4336,Barnhart,Lobby,2/12/2021,28,1500,916,3,TF,PUF,NA,29.4,No Amp,28.1,27,Positive (2/3),32.5,69,54,15,52,28,24,,1,121,1,6,overnight
+4320,Barnhart,Roof,2/12/2021,4,1345,NA,5,Roof Exhaust TF,PUF,NA,30.8,24.2,No Amp,27.9,Positive (2/3),31.7,69,54,15,52,28,24,,1,121,1,6,
+4340,Barnhart,Roof,2/12/2021,4,1345,1250,5,Roof Exhaust TF,PUF,NA,24.6,22,22.7,22.2,Positive (3/3),23.1,69,54,15,52,28,24,,1,121,1,6,overnight
+6039,Barnhart,Lobby,3/17/2021,94,1503,1520,3,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,NA,NA,NA,NA,NA,NA,0,0,,6,,6,,,6,0,39,overnight
+4290,Barnhart,Lobby,2/12/2021,26,900,1100,3,TF,PUF,dirty linen bins being moved because of water leak construction,28.1,No Amp,No Amp,No Amp,Negative,36,69,54,15,44,20,24,,1,113,1,6,posrec
+4342,Barnhart,Lobby,2/12/2021,29,916,1131,3,TF,PUF,NA,25.6,No Amp,No Amp,23.1,Negative,35.2,69,54,15,52,28,24,,1,121,1,6,posrec
+4323,Barnhart,Lobby,2/12/2021,27,1300,1500,3,TF,PUF,dirty linen bins being moved because of water leak construction,24.5,No Amp,No Amp,26.1,Negative,34.8,69,54,15,52,28,24,,1,121,1,6,tracerec
+4285,Barnhart,Lobby,2/12/2021,25,NA,900,3,Next to TFS,Settling Plate,NA,24.8,No Amp,No Amp,25.8,Negative,34.9,69,54,15,52,28,24,,1,121,1,6,
+4286,Barnhart,Lobby,2/12/2021,25,NA,900,3,Door South,Settling Plate,NA,24.6,No Amp,No Amp,25.5,Negative,34.9,69,54,15,52,28,24,,1,121,1,6,
+4287,Barnhart,Lobby,2/12/2021,25,NA,900,3,Door West,Settling Plate,NA,27.9,No Amp,No Amp,24.8,Negative,36,69,54,15,52,28,24,,1,121,1,6,
+4308,Barnhart,Lobby,2/12/2021,27,NA,1300,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,32.9,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4325,Barnhart,Lobby,2/12/2021,27,NA,1500,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,33.5,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4291,Barnhart,Lobby,2/12/2021,26,NA,1100,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4292,Barnhart,Lobby,2/12/2021,26,NA,1100,3,Door South,Settling Plate,NA,30.8,No Amp,No Amp,No Amp,Negative,36.9,69,54,15,52,28,24,,1,121,1,6,
+4293,Barnhart,Lobby,2/12/2021,26,NA,1100,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4307,Barnhart,Lobby,2/12/2021,27,NA,1300,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4309,Barnhart,Lobby,2/12/2021,27,NA,1300,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4324,Barnhart,Lobby,2/12/2021,27,NA,1500,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4326,Barnhart,Lobby,2/12/2021,27,NA,1500,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4289,Barnhart,Roof,2/12/2021,1,NA,900,NA,Roof Port,swab,NA,No Amp,No Amp,23.4,27.3,Negative,34.5,69,54,15,52,28,24,,1,121,1,6,
+4305,Barnhart,Roof,2/12/2021,2,NA,1110,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+4321,Barnhart,Roof,2/12/2021,3,NA,1345,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,69,54,15,52,28,24,,1,121,1,6,
+filler,filler,filler,2/13/2021,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,65,,,52,,,,,116,,7,
+filler,filler,filler,2/14/2021,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,50,,,46,,,,,96,,8,
+4399,Barnhart,Lobby,2/15/2021,32,1529,1815,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,39.7,34,25,9,41,25,16,,1,75,1,9,aftertrac
+4400,Barnhart,Lobby,2/15/2021,32,1529,1815,4,TF,PUF,NA,30.5,No Amp,No Amp,27.4,Negative,36.8,34,25,9,41,25,16,,1,75,1,9,aftertrac
+4367,Barnhart,Lobby,2/15/2021,30,1132,1320,3,TF,PUF,NA,25.2,No Amp,No Amp,23,Negative,35.1,34,25,9,41,25,16,,1,75,1,9,between
+6040,Barnhart,Lobby,3/17/2021,94,1503,1520,4,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,32.8,No Amp,No Amp,27.7,Negative,37.6,0,0,,6,,6,,,6,0,39,overnight
+5025,Barnhart,Lobby,2/21/2021,53,1520,910,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.8,Negative,40,21,15,6,25,12,13,,1,46,1,15,overnight
+4392,Barnhart,Lobby,2/15/2021,31,1320,1529,3,TF,PUF,NA,30.6,23.9,23.5,23.9,Positive (3/3),26,34,25,9,41,25,16,,1,75,1,9,tracerec
+4393,Barnhart,Lobby,2/15/2021,31,1320,1529,4,TF,PUF,NA,28.8,No Amp,23.1,21.4,Positive (2/3),30.6,34,25,9,41,25,16,,1,75,1,9,tracerec
+4339,Barnhart,Lobby,2/15/2021,28,NA,916,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.2,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4343,Barnhart,Lobby,2/15/2021,29,NA,1131,3,Next to TFS,Settling Plate,NA,27.7,No Amp,No Amp,24.2,Negative,35.9,34,25,9,41,25,16,,1,75,1,9,
+4344,Barnhart,Lobby,2/15/2021,29,NA,1131,3,Door South,Settling Plate,NA,27.9,No Amp,No Amp,23.3,Negative,36,34,25,9,41,25,16,,1,75,1,9,
+4345,Barnhart,Lobby,2/15/2021,29,NA,1131,3,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,24.8,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4368,Barnhart,Lobby,2/15/2021,30,NA,1320,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,24,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4369,Barnhart,Lobby,2/15/2021,30,NA,1320,3,Door South,Settling Plate,NA,31.8,No Amp,No Amp,25.4,Negative,37.3,34,25,9,41,25,16,,1,75,1,9,
+4370,Barnhart,Lobby,2/15/2021,30,NA,1320,3,Door West,Settling Plate,NA,32,No Amp,No Amp,22.5,Negative,37.3,34,25,9,41,25,16,,1,75,1,9,
+4394,Barnhart,Lobby,2/15/2021,31,NA,1529,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.8,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4396,Barnhart,Lobby,2/15/2021,31,NA,1529,NA,Door West,Settling Plate,NA,26.3,No Amp,No Amp,25.3,Negative,35.4,34,25,9,41,25,16,,1,75,1,9,
+4402,Barnhart,Lobby,2/15/2021,32,NA,1815,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.9,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4403,Barnhart,Lobby,2/15/2021,32,NA,1815,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.7,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4337,Barnhart,Lobby,2/15/2021,28,NA,916,3,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4338,Barnhart,Lobby,2/15/2021,28,NA,916,3,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4395,Barnhart,Lobby,2/15/2021,31,NA,1529,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4401,Barnhart,Lobby,2/15/2021,32,NA,1815,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,34,25,9,41,25,16,,1,75,1,9,
+4341,Barnhart,Roof,2/15/2021,3,NA,1250,NA,Roof Port,swab,NA,28.5,No Amp,26.8,25.5,Positive (2/3),31.8,34,25,9,41,25,16,,1,75,1,9,
+4398,Barnhart,Roof,2/15/2021,3,NA,1820,NA,Roof Port,swab,NA,25.3,23.6,24.1,23.6,Positive (3/3),24.3,34,25,9,41,25,16,,1,75,1,9,
+4507,Barnhart,Lobby,2/16/2021,35,1510,1758,3,TF,PUF,NA,31.8,No Amp,31,28.1,Positive (2/3),34.3,37,30,7,38,21,17,,1,75,1,10,aftertrac
+4508,Barnhart,Lobby,2/16/2021,35,1510,1758,4,TF,PUF,NA,No Amp,No Amp,No Amp,28.9,Negative,37.2,37,30,7,38,21,17,,1,75,1,10,aftertrac
+4505,Barnhart,Roof,2/16/2021,6,1318,1745,5,Roof Exhaust TF,PUF,NA,32.5,No Amp,No Amp,24.2,Negative,37.5,37,30,7,38,21,17,,1,75,1,10,tracplus
+5026,Barnhart,Lobby,2/21/2021,53,1520,910,4,TF,PUF,NA,No Amp,No Amp,No Amp,28.9,Negative,40,21,15,6,25,12,13,,1,46,1,15,overnight
+6048,Barnhart,Lobby,3/18/2021,95,1520,1202,3,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,No Amp,Negative,40,0,0,,6,,6,,,6,0,40,overnight
+4430,Barnhart,Lobby,2/16/2021,34,903,1128,3,TF,PUF,NA,31.4,31.9,No Amp,23.8,Positive (2/3),34.4,37,30,7,38,21,17,,1,75,1,10,posrec
+4431,Barnhart,Lobby,2/16/2021,34,903,1128,4,TF,PUF,NA,33.6,No Amp,34.4,25.1,Positive (2/3),36,37,30,7,38,21,17,,1,75,1,10,posrec
+4533,Barnhart,Roof,2/16/2021,7,1745,1040,5,Roof Exhaust TF,PUF,NA,26.2,No Amp,No Amp,25,Negative,35.4,37,30,7,38,21,17,,1,75,1,10,overnight
+4458,Barnhart,Lobby,2/16/2021,34,1128,1510,3,TF,PUF,NA,30.8,No Amp,No Amp,28.7,Negative,36.9,37,30,7,38,21,17,,1,75,1,10,tracerec
+4459,Barnhart,Lobby,2/16/2021,34,1128,1510,4,TF,PUF,NA,No Amp,No Amp,No Amp,28.4,Negative,40,37,30,7,38,21,17,,1,75,1,10,tracerec
+4456,Barnhart,Roof,2/16/2021,5,1820,1318,5,Roof Exhaust TF,PUF,PUF stuck on cartridge partially outside of capture chamber,27.3,No Amp,No Amp,24.8,Negative,35.8,37,30,7,38,21,17,,1,75,1,10,overnight
+4427,Barnhart,Lobby,2/16/2021,33,NA,903,NA,Next to TFS,Settling Plate,NA,32.5,No Amp,No Amp,24.3,Negative,37.5,37,30,7,38,21,17,,1,75,1,10,
+4428,Barnhart,Lobby,2/16/2021,33,NA,903,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,25.5,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4429,Barnhart,Lobby,2/16/2021,33,NA,903,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4432,Barnhart,Lobby,2/16/2021,34,NA,1128,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25.1,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4433,Barnhart,Lobby,2/16/2021,34,NA,1128,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4434,Barnhart,Lobby,2/16/2021,34,NA,1128,NA,Door West,Settling Plate,NA,29.6,No Amp,No Amp,26.1,Negative,36.5,37,30,7,38,21,17,,1,75,1,10,
+4460,Barnhart,Lobby,2/16/2021,34,NA,1510,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,23.8,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4461,Barnhart,Lobby,2/16/2021,34,NA,1510,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,23.6,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4462,Barnhart,Lobby,2/16/2021,34,NA,1510,NA,Door West,Settling Plate,NA,26.7,No Amp,No Amp,25.6,Negative,35.6,37,30,7,38,21,17,,1,75,1,10,
+4509,Barnhart,Lobby,2/16/2021,35,NA,1758,NA,Next to TFS,Settling Plate,NA,32.2,No Amp,No Amp,26.5,Negative,37.4,37,30,7,38,21,17,,1,75,1,10,
+4510,Barnhart,Lobby,2/16/2021,35,NA,1758,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4511,Barnhart,Lobby,2/16/2021,35,NA,1758,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4457,Barnhart,Roof,2/16/2021,4,NA,1318,NA,Roof Port,swab,NA,32.7,No Amp,No Amp,25.4,Negative,37.6,37,30,7,38,21,17,,1,75,1,10,
+4506,Barnhart,Roof,2/16/2021,5,NA,1745,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,29.1,Negative,40,37,30,7,38,21,17,,1,75,1,10,
+4534,Barnhart,Roof,2/16/2021,6,NA,1040,NA,Roof Port,swab,NA,28.7,No Amp,No Amp,26,Negative,36.2,37,30,7,38,21,17,,1,75,1,10,
+4577,Barnhart,Lobby,2/17/2021,40,1516,1716,3,TF,PUF,NA,25.8,No Amp,No Amp,22.6,Negative,35.3,36,31,5,35,19,16,,1,71,1,11,aftertrac
+4578,Barnhart,Lobby,2/17/2021,40,1516,1716,4,TF,PUF,NA,No Amp,No Amp,No Amp,23.5,Negative,40,36,31,5,35,19,16,,1,71,1,11,aftertrac
+4689,Barnhart,Lobby,2/18/2021,45,1520,1720,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,36,31,5,35,19,16,,1,71,1,12,aftertrac
+4582,Barnhart,Roof,2/17/2021,8,1040,1805,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,25.7,Negative,40,36,31,5,35,19,16,,1,71,1,11,both
+4694,Barnhart,Roof,2/17/2021,10,1045,1744,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,36,31,5,35,19,16,,1,71,1,11,both
+4690,Barnhart,Lobby,2/18/2021,45,1520,1720,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,aftertrac
+4639,Barnhart,Lobby,2/18/2021,43,1105,1302,3,TF,PUF,NA,29.5,No Amp,No Amp,25,Negative,36.5,36,31,5,35,19,16,,1,71,1,12,between
+4556,Barnhart,Lobby,2/17/2021,38,1109,1304,3,TF,PUF,NA,27.9,No Amp,No Amp,23.3,Negative,36,36,31,5,35,19,16,,1,71,1,11,between
+4557,Barnhart,Lobby,2/17/2021,38,1109,1304,4,TF,PUF,NA,No Amp,No Amp,No Amp,22.2,Negative,40,36,31,5,35,19,16,,1,71,1,11,between
+4640,Barnhart,Lobby,2/18/2021,43,1105,1302,4,TF,PUF,NA,22.3,No Amp,No Amp,19.7,Negative,34.1,30,22,8,32,18,14,,,62,0,12,between
+6049,Barnhart,Lobby,3/18/2021,95,1520,1202,4,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,33.1,No Amp,No Amp,27.6,Negative,37.7,0,0,,6,,6,,,6,0,40,overnight
+4770,Barnhart,Lobby,2/20/2021,49,1550,901,3,TF,PUF,NA,25.2,23,24.9,22.8,Positive (3/3),24.4,28,21,7,26,14,12,,,54,0,14,overnight
+4632,Barnhart,Roof,2/17/2021,9,1805,1045,5,Roof Exhaust TF,PUF,NA,32.1,32.2,No Amp,24.4,Positive (2/3),34.8,36,31,5,35,19,16,,1,71,1,11,overnight
+4540,Barnhart,Lobby,2/17/2021,37,901,1109,3,TF,PUF,NA,26.9,No Amp,No Amp,24.6,Negative,35.6,36,31,5,35,19,16,,1,71,1,11,posrec
+4541,Barnhart,Lobby,2/17/2021,37,901,1109,4,TF,PUF,NA,28.6,No Amp,No Amp,27.3,Negative,36.2,36,31,5,35,19,16,,1,71,1,11,posrec
+4634,Barnhart,Lobby,2/18/2021,42,910,1105,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,36,31,5,35,19,16,,1,71,1,12,posrec
+4537,Barnhart,Lobby,2/17/2021,36,NA,901,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,24.3,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4538,Barnhart,Lobby,2/17/2021,36,NA,901,NA,Door South,Settling Plate,NA,25.5,No Amp,No Amp,23.6,Negative,35.2,36,31,5,35,19,16,,1,71,1,11,
+4539,Barnhart,Lobby,2/17/2021,36,NA,901,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,22.8,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4542,Barnhart,Lobby,2/17/2021,37,NA,1109,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,23.3,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4543,Barnhart,Lobby,2/17/2021,37,NA,1109,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.3,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4544,Barnhart,Lobby,2/17/2021,37,NA,1109,NA,Door West,Settling Plate,NA,25.9,No Amp,No Amp,24.2,Negative,35.3,36,31,5,35,19,16,,1,71,1,11,
+4558,Barnhart,Lobby,2/17/2021,38,NA,1304,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,23.4,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4559,Barnhart,Lobby,2/17/2021,38,NA,1304,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,23.1,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4560,Barnhart,Lobby,2/17/2021,38,NA,1304,NA,Door West,Settling Plate,NA,25.5,No Amp,No Amp,20.9,Negative,35.2,36,31,5,35,19,16,,1,71,1,11,
+4563,Barnhart,Lobby,2/17/2021,39,NA,1516,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,23.6,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4564,Barnhart,Lobby,2/17/2021,39,NA,1516,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.5,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4565,Barnhart,Lobby,2/17/2021,39,NA,1516,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,23.5,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4579,Barnhart,Lobby,2/17/2021,40,NA,1716,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,24.1,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4580,Barnhart,Lobby,2/17/2021,40,NA,1716,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.5,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4581,Barnhart,Lobby,2/17/2021,40,NA,1716,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,24,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4583,Barnhart,Roof,2/17/2021,7,NA,1805,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,24.7,Negative,40,36,31,5,35,19,16,,1,71,1,11,
+4635,Barnhart,Lobby,2/18/2021,42,910,1105,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,posrec
+4664,Barnhart,Lobby,2/17/2021,44,1302,1520,3,TF,PUF,NA,No Amp,No Amp,No Amp,24.4,Negative,40,36,31,5,35,19,16,,1,71,1,11,tracerec
+4561,Barnhart,Lobby,2/17/2021,39,1304,1516,3,TF,PUF,NA,28.3,No Amp,No Amp,No Amp,Negative,36.1,36,31,5,35,19,16,,1,71,1,11,tracerec
+4562,Barnhart,Lobby,2/18/2021,39,1304,1516,4,TF,PUF,NA,31.6,No Amp,No Amp,26.1,Negative,37.2,36,31,5,35,19,16,,1,71,1,12,tracerec
+4665,Barnhart,Lobby,2/18/2021,44,1302,1520,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,tracerec
+4629,Barnhart,Lobby,2/18/2021,41,NA,910,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25.5,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4630,Barnhart,Lobby,2/18/2021,41,NA,910,NA,Door South,Settling Plate,NA,27.8,No Amp,No Amp,25.9,Negative,35.9,30,22,8,32,18,14,,,62,0,12,
+4631,Barnhart,Lobby,2/18/2021,41,NA,910,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.4,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4636,Barnhart,Lobby,2/18/2021,42,NA,1105,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25.6,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4637,Barnhart,Lobby,2/18/2021,42,NA,1105,NA,Door South,Settling Plate,NA,24.9,No Amp,No Amp,22.9,Negative,35,30,22,8,32,18,14,,,62,0,12,
+4638,Barnhart,Lobby,2/18/2021,42,NA,1105,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,24.7,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4641,Barnhart,Lobby,2/18/2021,43,NA,1302,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.4,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4642,Barnhart,Lobby,2/18/2021,43,NA,1302,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,25.9,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4643,Barnhart,Lobby,2/18/2021,43,NA,1302,NA,Door West,Settling Plate,NA,31.9,No Amp,No Amp,26.5,Negative,37.3,30,22,8,32,18,14,,,62,0,12,
+4666,Barnhart,Lobby,2/18/2021,44,NA,1520,NA,Next to TFS,Settling Plate,NA,34.7,No Amp,No Amp,26.9,Negative,38.2,30,22,8,32,18,14,,,62,0,12,
+4667,Barnhart,Lobby,2/18/2021,44,NA,1520,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.6,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4668,Barnhart,Lobby,2/18/2021,44,NA,1520,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,20.1,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4691,Barnhart,Lobby,2/18/2021,45,NA,1720,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4692,Barnhart,Lobby,2/18/2021,45,NA,1720,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4693,Barnhart,Lobby,2/18/2021,45,NA,1720,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4633,Barnhart,Roof,2/18/2021,8,NA,1045,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,23.7,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4695,Barnhart,Roof,2/18/2021,9,NA,1744,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,
+4768,Barnhart,Roof,2/19/2021,12,1040,2012,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,27.9,26.8,Negative,36,30,23,7,30,16,14,,,60,0,13,both
+4758,Barnhart,Lobby,2/19/2021,48,1100,1300,3,TF,PUF,NA,25.8,No Amp,No Amp,24.6,Negative,35.3,30,23,7,30,16,14,,,60,0,13,between
+4759,Barnhart,Lobby,2/19/2021,48,1100,1300,4,TF,PUF,NA,29.5,23.9,23.4,22.8,Positive (3/3),25.6,30,23,7,30,16,14,,,60,0,13,between
+4771,Barnhart,Lobby,2/20/2021,49,1550,901,4,TF,PUF,NA,24.1,25.9,25.2,24.5,Positive (3/3),25.1,28,21,7,26,14,12,,,54,0,14,overnight
+6030,Barnhart,Lobby,3/16/2021,93,1610,1503,3,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.1,Negative,40,1,1,,6,,6,,,7,0,38,overnight
+4733,Barnhart,Lobby,2/19/2021,47,905,1100,3,TF,PUF,NA,23.6,24.5,23.8,24,Positive (3/3),24,30,23,7,30,16,14,,,60,0,13,posrec
+4734,Barnhart,Lobby,2/19/2021,47,905,1100,4,TF,PUF,NA,29.3,31.8,24.6,23.7,Positive (3/3),28.5,30,23,7,30,16,14,,,60,0,13,posrec
+4731,Barnhart,Roof,2/19/2021,11,1744,1040,5,Roof Exhaust TF,PUF,NA,22.5,23.2,22.1,21.7,Positive (3/3),22.6,30,23,7,30,16,14,,,60,0,13,overnight
+4763,Barnhart,Lobby,2/19/2021,48,1300,1550,3,TF,PUF,NA,No Amp,No Amp,No Amp,25.9,Negative,40,30,23,7,30,16,14,,,60,0,13,tracerec
+4764,Barnhart,Lobby,2/19/2021,48,1300,1550,4,TF,PUF,NA,31.2,No Amp,No Amp,27.6,Negative,37.1,30,23,7,30,16,14,,,60,0,13,tracerec
+4729,Barnhart,Lobby,2/19/2021,46,NA,905,NA,Door South,Settling Plate,NA,26.3,No Amp,No Amp,25.4,Negative,35.4,30,23,7,30,16,14,,,60,0,13,
+4730,Barnhart,Lobby,2/19/2021,46,NA,905,NA,Door West,Settling Plate,NA,29.9,No Amp,No Amp,26.1,Negative,36.6,30,23,7,30,16,14,,,60,0,13,
+4736,Barnhart,Lobby,2/19/2021,47,NA,1100,NA,Door South,Settling Plate,NA,29.5,29.5,30.2,27.4,Positive (3/3),29.7,30,23,7,30,16,14,,,60,0,13,
+4737,Barnhart,Lobby,2/19/2021,47,NA,1100,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,29.1,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4765,Barnhart,Lobby,2/19/2021,48,NA,1550,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.7,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4728,Barnhart,Lobby,2/19/2021,46,NA,905,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,30,23,7,30,16,14,,,60,0,13,
+4735,Barnhart,Lobby,2/19/2021,47,NA,1100,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4760,Barnhart,Lobby,2/19/2021,48,NA,1300,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4761,Barnhart,Lobby,2/19/2021,48,NA,1300,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4762,Barnhart,Lobby,2/19/2021,48,NA,1300,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4766,Barnhart,Lobby,2/19/2021,48,NA,1550,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4767,Barnhart,Lobby,2/19/2021,48,NA,1550,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4732,Barnhart,Roof,2/19/2021,10,NA,1040,NA,Roof Port,swab,NA,No Amp,No Amp,No Amp,27.8,Negative,40,30,23,7,30,16,14,,,60,0,13,
+4769,Barnhart,Roof,2/19/2021,11,NA,2012,NA,Roof port,swab,NA,25.9,26.4,25.9,26.2,Positive (3/3),26.1,30,23,7,30,16,14,,,60,0,13,
+4932,Barnhart,Lobby,2/20/2021,51,1502,1925,3,TF,PUF,NA,No Amp,No Amp,No Amp,23.6,Negative,40,28,21,7,26,14,12,,,54,0,14,aftertrac
+4933,Barnhart,Lobby,2/20/2021,51,1502,1925,4,TF,PUF,NA,29.2,No Amp,No Amp,24.5,Negative,36.4,28,21,7,26,14,12,,,54,0,14,aftertrac
+4937,Barnhart,Roof,2/20/2021,14,1134,1800,5,Roof Exhaust TF,PUF,NA,29.4,No Amp,No Amp,No Amp,Negative,36.5,28,21,7,26,14,12,,,54,0,14,tracplus
+4875,Barnhart,Lobby,2/20/2021,51,1113,1312,3,TF,PUF,NA,24.1,No Amp,No Amp,24.4,Negative,34.7,28,21,7,26,14,12,,,54,0,14,between
+4876,Barnhart,Lobby,2/20/2021,51,1113,1312,4,TF,PUF,NA,24,24.5,24,23.9,Positive (3/3),24.2,28,21,7,26,14,12,,,54,0,14,between
+6031,Barnhart,Lobby,3/16/2021,93,1610,1503,4,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,33.4,No Amp,No Amp,27,Negative,37.8,1,1,,6,,6,,,7,0,38,overnight
+5834,Barnhart,Lobby,3/3/2021,81,1700,1512,3,TF,PUF,NA,No Amp,No Amp,No Amp,29.3,Negative,40,9,8,1,8,2,6,,1,17,1,25,overnight
+5835,Barnhart,Lobby,3/3/2021,81,1700,1512,4,TF,PUF,NA,30.9,25.7,No Amp,28.1,Positive (2/3),32.2,9,8,1,8,2,6,,1,17,1,25,overnight
+5493,Barnhart,Lobby,2/24/2021,68,1708,825,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,21,17,4,23,11,12,,1,44,1,18,overnight
+4837,Barnhart,Lobby,2/20/2021,50,901,1113,3,TF,PUF,NA,27.3,No Amp,No Amp,No Amp,Negative,35.8,28,21,7,26,14,12,,,54,0,14,posrec
+4838,Barnhart,Lobby,2/20/2021,50,901,1113,4,TF,PUF,NA,No Amp,No Amp,No Amp,27.5,Negative,40,28,21,7,26,14,12,,,54,0,14,posrec
+4885,Barnhart,Lobby,2/20/2021,52,1312,1502,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,tracerec
+4884,Barnhart,Lobby,2/20/2021,52,1312,1502,3,TF,PUF,NA,29.2,No Amp,No Amp,25.9,Negative,36.4,28,21,7,26,14,12,,,54,0,14,tracerec
+4829,Barnhart,Roof,2/20/2021,13,2012,1134,5,Roof Exhaust TF,PUF,NA,NA,NA,NA,NA,NA,NA,28,21,7,26,14,12,,,54,0,14,overnight
+4772,Barnhart,Lobby,2/20/2021,49,NA,901,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,26.4,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4773,Barnhart,Lobby,2/20/2021,49,NA,901,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.2,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4774,Barnhart,Lobby,2/20/2021,49,NA,901,NA,Door West,Settling Plate,NA,23.5,25.3,24.3,24.3,Positive (3/3),24.4,28,21,7,26,14,12,,,54,0,14,
+4841,Barnhart,Lobby,2/20/2021,50,NA,1113,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,29.4,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4934,Barnhart,Lobby,2/20/2021,51,NA,1925,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,31.1,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4935,Barnhart,Lobby,2/20/2021,51,NA,1925,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,29.8,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4972,Barnhart,Lobby,2/20/2021,52,NA,907,NA,Next to TFS,Settling Plate,NA,30.4,No Amp,No Amp,26.4,Negative,36.8,28,21,7,26,14,12,,,54,0,14,
+4973,Barnhart,Lobby,2/20/2021,52,NA,907,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,28.1,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4974,Barnhart,Lobby,2/20/2021,52,NA,907,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.2,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4839,Barnhart,Lobby,2/20/2021,50,NA,1113,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4840,Barnhart,Lobby,2/20/2021,50,NA,1113,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4877,Barnhart,Lobby,2/20/2021,51,NA,1312,NA,Next to TFS,Settling Plate,NA,30.1,26.5,29.5,No Amp,Positive (3/3),28.7,28,21,7,26,14,12,,,54,0,14,
+4878,Barnhart,Lobby,2/20/2021,51,NA,1312,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4879,Barnhart,Lobby,2/20/2021,51,NA,1312,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4886,Barnhart,Lobby,2/20/2021,52,NA,1502,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4887,Barnhart,Lobby,2/20/2021,52,NA,1502,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4888,Barnhart,Lobby,2/20/2021,52,NA,1502,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4936,Barnhart,Lobby,2/20/2021,51,NA,1925,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4830,Barnhart,Roof,2/20/2021,12,NA,1134,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4938,Barnhart,Roof,2/20/2021,13,NA,1800,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,28,21,7,26,14,12,,,54,0,14,
+4983,Barnhart,Lobby,2/21/2021,54,1110,1307,4,TF,PUF,NA,NA,NA,NA,NA,NA,NA,21,15,6,25,12,13,,1,46,1,15,between
+4982,Barnhart,Lobby,2/21/2021,54,1110,1307,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.9,Negative,40,21,15,6,25,12,13,,1,46,1,15,between
+5023,Barnhart,Roof,2/21/2021,16,1240,1720,5,Roof Exhaust TF,PUF,NA,28,No Amp,No Amp,27.9,Negative,36,21,15,6,25,12,13,,1,46,1,15,tracplus
+5494,Barnhart,Lobby,2/24/2021,68,1708,825,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,21,17,4,23,11,12,,1,44,1,18,overnight
+4627,Barnhart,Lobby,2/17/2021,41,1716,910,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,36,31,5,35,19,16,,1,71,1,11,overnight
+4977,Barnhart,Lobby,2/21/2021,53,907,1110,3,TF,PUF,NA,31.7,27.6,28.2,27.4,Positive (3/3),29.2,21,15,6,25,12,13,,1,46,1,15,posrec
+4978,Barnhart,Lobby,2/21/2021,53,907,1110,4,TF,PUF,NA,31.1,No Amp,No Amp,27.5,Negative,37,21,15,6,25,12,13,,1,46,1,15,posrec
+4975,Barnhart,Roof,2/21/2021,15,1800,1240,5,Roof Exhaust TF,PUF,NA,33.3,No Amp,No Amp,28.4,Negative,37.8,21,15,6,25,12,13,,1,46,1,15,overnight
+5018,Barnhart,Lobby,2/21/2021,52,1307,1520,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.6,Negative,40,21,15,6,25,12,13,,1,46,1,15,tracerec
+5019,Barnhart,Lobby,2/21/2021,52,1307,1520,4,TF,PUF,NA,31.3,No Amp,No Amp,29.7,Negative,37.1,21,15,6,25,12,13,,1,46,1,15,tracerec
+4979,Barnhart,Lobby,2/21/2021,53,NA,1110,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.7,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+4980,Barnhart,Lobby,2/21/2021,53,NA,1110,NA,Door South,Settling Plate,NA,32.3,No Amp,No Amp,28.3,Negative,37.4,21,15,6,25,12,13,,1,46,1,15,
+4981,Barnhart,Lobby,2/21/2021,53,NA,1110,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,28.3,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+4984,Barnhart,Lobby,2/21/2021,54,NA,1307,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.5,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+4985,Barnhart,Lobby,2/21/2021,54,NA,1307,NA,Door South,Settling Plate,NA,32.5,No Amp,No Amp,26.9,Negative,37.5,21,15,6,25,12,13,,1,46,1,15,
+4986,Barnhart,Lobby,2/21/2021,54,NA,1307,NA,Door West,Settling Plate,NA,32.5,No Amp,No Amp,27.9,Negative,37.5,21,15,6,25,12,13,,1,46,1,15,
+5020,Barnhart,Lobby,2/21/2021,52,NA,1520,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.5,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+5021,Barnhart,Lobby,2/21/2021,52,NA,1520,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,30.1,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+5022,Barnhart,Lobby,2/21/2021,52,NA,1520,NA,Door West,Settling Plate,NA,No Amp,No Amp,25,27.9,Negative,35,21,15,6,25,12,13,,1,46,1,15,
+5027,Barnhart,Lobby,2/21/2021,53,NA,910,NA,Next to TFS,Settling Plate,NA,31.3,No Amp,No Amp,27.5,Negative,37.1,21,15,6,25,12,13,,1,46,1,15,
+5028,Barnhart,Lobby,2/21/2021,53,NA,910,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.9,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+5029,Barnhart,Lobby,2/21/2021,53,NA,910,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,29.6,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+4976,Barnhart,Roof,2/21/2021,14,NA,1240,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,28.9,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+5024,Barnhart,Roof,2/21/2021,15,NA,1720,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,26.9,Negative,40,21,15,6,25,12,13,,1,46,1,15,
+5100,Barnhart,Lobby,2/22/2021,56,1538,1908,3,TF,PUF,NA,24.2,No Amp,No Amp,24.6,Negative,34.7,21,15,6,25,12,13,,1,46,1,16,aftertrac
+5101,Barnhart,Lobby,2/22/2021,56,1538,1908,4,TF,PUF,NA,No Amp,No Amp,No Amp,30.8,Negative,40,21,15,6,25,12,13,,1,46,1,16,aftertrac
+5105,Barnhart,Roof,2/22/2021,18,1006,1910,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,26.5,Negative,40,21,15,6,25,12,13,,1,46,1,16,both
+4628,Barnhart,Lobby,2/18/2021,41,1716,910,4,TF,PUF,sampler wasnt turned on,No Amp,No Amp,No Amp,No Amp,Negative,40,30,22,8,32,18,14,,,62,0,12,overnight
+4726,Barnhart,Lobby,2/19/2021,46,1720,905,3,TF,PUF,NA,30.4,25.6,No Amp,26.5,Positive (2/3),32,30,23,7,30,16,14,,,60,0,13,overnight
+5050,Barnhart,Roof,2/22/2021,17,1720,1006,5,Roof Exhaust TF,PUF,NA,30.7,No Amp,No Amp,29.4,Negative,36.9,21,15,6,25,12,13,,1,46,1,16,overnight
+5053,Barnhart,Lobby,2/22/2021,54,910,1103,4,TF,PUF,NA,27.2,29,27.8,No Amp,Positive (3/3),28,21,15,6,25,12,13,,1,46,1,16,posrec
+5052,Barnhart,Lobby,2/22/2021,54,910,1103,3,TF,PUF,NA,28.7,No Amp,29.8,28.5,Positive (2/3),32.8,21,15,6,25,12,13,,1,46,1,16,posrec
+5057,Barnhart,Lobby,2/22/2021,55,1258,1538,3,TF,PUF,NA,28.7,28.7,29.4,No Amp,Positive (3/3),29,21,15,6,25,12,13,,1,46,1,16,tracerec
+5058,Barnhart,Lobby,2/22/2021,55,1258,1538,4,TF,PUF,NA,25.9,22.5,24.2,26.6,Positive (3/3),24.2,21,15,6,25,12,13,,1,46,1,16,tracerec
+5144,Barnhart,Roof,2/22/2021,19,1910,1012,5,Roof Exhaust TF,PUF,NA,29.5,No Amp,No Amp,29.1,Negative,36.5,21,15,6,25,12,13,,1,46,1,16,overnight
+5054,Barnhart,Lobby,2/22/2021,54,NA,1103,NA,Next to TFS,Settling Plate,NA,34.2,25.8,No Amp,27.9,Positive (2/3),33.3,21,15,6,25,12,13,,1,46,1,16,
+5055,Barnhart,Lobby,2/22/2021,54,NA,1103,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.8,Negative,40,21,15,6,25,12,13,,1,46,1,16,
+5056,Barnhart,Lobby,2/22/2021,54,NA,1103,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.6,Negative,40,21,15,6,25,12,13,,1,46,1,16,
+5059,Barnhart,Lobby,2/22/2021,55,NA,1538,NA,Next to TFS,Settling Plate,NA,32.4,No Amp,No Amp,27.5,Negative,37.5,21,15,6,25,12,13,,1,46,1,16,
+5060,Barnhart,Lobby,2/22/2021,55,NA,1538,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.2,Negative,40,21,15,6,25,12,13,,1,46,1,16,
+5061,Barnhart,Lobby,2/22/2021,55,NA,1538,NA,Door West,Settling Plate,NA,29.3,No Amp,No Amp,26.8,Negative,36.4,21,15,6,25,12,13,,1,46,1,16,
+5102,Barnhart,Lobby,2/22/2021,56,NA,1908,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,26.8,Negative,40,21,15,6,25,12,13,,1,46,1,16,
+5103,Barnhart,Lobby,2/22/2021,56,NA,1908,NA,Door South,Settling Plate,NA,29.3,No Amp,No Amp,27.5,Negative,36.4,21,15,6,25,12,13,,1,46,1,16,
+5104,Barnhart,Lobby,2/22/2021,56,NA,1908,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.3,Negative,40,21,15,6,25,12,13,,1,46,1,16,
+5051,Barnhart,Roof,2/22/2021,16,NA,1006,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,28.3,Negative,40,21,15,6,25,12,13,,1,46,1,16,
+5106,Barnhart,Roof,2/22/2021,17,NA,1910,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,19,15,4,25,12,13,,1,44,1,16,
+5256,Barnhart,Lobby,2/23/2021,61,1508,1657,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.1,Negative,40,20,16,4,25,12,13,,1,45,1,17,aftertrac
+5257,Barnhart,Lobby,2/23/2021,61,1508,1657,4,TF,PUF,NA,31.7,No Amp,No Amp,28.2,Negative,37.2,20,16,4,25,12,13,,1,45,1,17,aftertrac
+5295,Barnhart,Lobby,2/23/2021,62,1657,1904,3,TF,PUF,NA,25.3,No Amp,26.4,25.9,Positive (2/3),30.6,20,16,4,25,12,13,,1,45,1,17,aftertrac
+5261,Barnhart,Roof,2/23/2021,20,1012,1710,5,Roof Exhaust TF,PUF,NA,29.7,No Amp,No Amp,28.7,Negative,36.6,20,16,4,25,12,13,,1,45,1,17,both
+5296,Barnhart,Lobby,2/23/2021,62,1657,1904,4,TF,PUF,NA,26.6,28,28.5,26.7,Positive (3/3),27.7,20,16,4,25,12,13,,1,45,1,17,aftertrac
+5215,Barnhart,Lobby,2/23/2021,59,1110,1314,3,TF,PUF,NA,27.2,No Amp,No Amp,27.4,Negative,35.7,20,16,4,25,12,13,,1,45,1,17,between
+5216,Barnhart,Lobby,2/23/2021,59,1110,1314,4,TF,PUF,NA,No Amp,No Amp,No Amp,29,Negative,40,20,16,4,25,12,13,,1,45,1,17,between
+4727,Barnhart,Lobby,2/19/2021,46,1720,905,4,TF,PUF,NA,29.2,No Amp,No Amp,26.4,Negative,36.4,30,23,7,30,16,14,,,60,0,13,overnight
+5808,Barnhart,Lobby,3/1/2021,78,1728,1812,3,TF,PUF,NA,33.2,No Amp,No Amp,28,Negative,37.7,13,12,1,10,2,8,,1,23,1,23,overnight
+5305,Barnhart,Roof,2/23/2021,21,1710,1055,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,29.1,Negative,40,20,16,4,25,12,13,,1,45,1,17,overnight
+5178,Barnhart,Lobby,2/23/2021,58,910,1110,3,TF,PUF,NA,29.8,28.3,28.4,28.7,Positive (3/3),28.8,20,16,4,25,12,13,,1,45,1,17,posrec
+5179,Barnhart,Lobby,2/23/2021,58,910,1110,4,TF,PUF,NA,33.7,No Amp,No Amp,28.6,Negative,37.9,20,16,4,25,12,13,,1,45,1,17,posrec
+5220,Barnhart,Lobby,2/23/2021,60,1314,1508,3,TF,PUF,NA,28,No Amp,No Amp,27.4,Negative,36,20,16,4,25,12,13,,1,45,1,17,tracerec
+5221,Barnhart,Lobby,2/23/2021,60,1314,1508,4,TF,PUF,NA,29.4,26.5,No Amp,28,Positive (2/3),32,20,16,4,25,12,13,,1,45,1,17,tracerec
+5141,Barnhart,Lobby,2/23/2021,57,NA,910,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.8,Negative,40,17,13,4,25,12,13,,1,42,1,17,
+5142,Barnhart,Lobby,2/23/2021,57,NA,910,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,30.4,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5143,Barnhart,Lobby,2/23/2021,57,NA,910,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,28.5,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5180,Barnhart,Lobby,2/23/2021,58,NA,1110,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,29.5,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5181,Barnhart,Lobby,2/23/2021,58,NA,1110,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,29.2,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5182,Barnhart,Lobby,2/23/2021,58,NA,1110,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.8,Negative,38.4,20,16,4,25,12,13,,1,45,1,17,
+5217,Barnhart,Lobby,2/23/2021,59,NA,1314,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.3,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5218,Barnhart,Lobby,2/23/2021,59,NA,1314,NA,Door South,Settling Plate,NA,28.2,No Amp,No Amp,27.3,Negative,36.1,20,16,4,25,12,13,,1,45,1,17,
+5219,Barnhart,Lobby,2/23/2021,59,NA,1314,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.2,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5222,Barnhart,Lobby,2/23/2021,60,NA,1508,NA,Next to TFS,Settling Plate,NA,30.9,No Amp,No Amp,29.4,Negative,37,20,16,4,25,12,13,,1,45,1,17,
+5223,Barnhart,Lobby,2/23/2021,60,NA,1508,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.2,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5224,Barnhart,Lobby,2/23/2021,60,NA,1508,NA,Door West,Settling Plate,NA,25.5,No Amp,No Amp,25,Negative,35.2,20,16,4,25,12,13,,1,45,1,17,
+5259,Barnhart,Lobby,2/23/2021,61,NA,1657,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5260,Barnhart,Lobby,2/23/2021,61,NA,1657,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.1,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5297,Barnhart,Lobby,2/23/2021,62,NA,1904,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.5,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5298,Barnhart,Lobby,2/23/2021,62,NA,1904,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,28.5,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5299,Barnhart,Lobby,2/23/2021,62,NA,1904,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,27.7,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5258,Barnhart,Lobby,2/23/2021,61,NA,1657,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,20,16,4,25,12,13,,1,45,1,17,
+5145,Barnhart,Roof,2/23/2021,18,NA,1012,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,26,Negative,40,20,16,4,25,12,13,,1,45,1,17,
+5262,Barnhart,Roof,2/23/2021,19,NA,1710,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,28.4,Negative,39.3,20,16,4,25,12,13,,1,45,1,17,
+5455,Barnhart,Lobby,2/24/2021,67,1515,1708,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,21,17,4,23,11,12,,1,44,1,18,aftertrac
+5454,Barnhart,Lobby,2/24/2021,67,1515,1708,3,TF,PUF,NA,No Amp,No Amp,No Amp,31.5,Negative,40,21,17,4,23,11,12,,1,44,1,18,aftertrac
+5459,Barnhart,Roof,2/24/2021,22,1055,1658,5,Roof Exhaust TF,PUF,NA,26.3,No Amp,No Amp,27,Negative,35.4,21,17,4,23,11,12,,1,44,1,18,both
+5605,Barnhart,Roof,2/24/2021,23,1105,1850,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,24.3,Negative,40,21,17,4,23,11,12,,1,44,1,18,both
+5380,Barnhart,Lobby,2/24/2021,65,1200,1319,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.4,Negative,40,21,17,4,23,11,12,,1,44,1,18,between
+5381,Barnhart,Lobby,2/24/2021,65,1200,1319,4,TF,PUF,NA,No Amp,No Amp,No Amp,27.7,Negative,40,21,17,4,23,11,12,,1,44,1,18,between
+5809,Barnhart,Lobby,3/1/2021,78,1728,1812,4,TF,PUF,NA,30.7,28.7,27,27.5,Positive (3/3),28.8,13,12,1,10,2,8,,1,23,1,23,overnight
+5697,Barnhart,Lobby,2/25/2021,73,1730,845,4,TF,PUF,NA,31.5,No Amp,No Amp,No Amp,Negative,37.2,23,19,4,19,11,8,,1,42,1,19,overnight
+5532,Barnhart,Roof,2/24/2021,22,1658,1105,5,Roof Exhaust TF,PUF,NA,29.2,No Amp,No Amp,25.7,Negative,36.4,21,17,4,23,11,12,,1,44,1,18,overnight
+5375,Barnhart,Lobby,2/24/2021,64,930,1200,3,TF,PUF,NA,No Amp,No Amp,No Amp,30.1,Negative,40,21,17,4,23,11,12,,1,44,1,18,posrec
+5376,Barnhart,Lobby,2/24/2021,64,930,1200,4,TF,PUF,NA,31,No Amp,No Amp,28.6,Negative,37,21,17,4,23,11,12,,1,44,1,18,posrec
+5498,Barnhart,7 Hall North,2/24/2021,1,1817,828,1,TF,PUF,"Launched Hallway Sampler, closed door to floor lobby",No Amp,No Amp,No Amp,No Amp,Negative,40,21,17,4,23,11,12,,1,44,1,18,overnight
+5499,Barnhart,2 Hall North,2/24/2021,1,1823,830,7,TF,PUF,"Launched Hallway Sampler, closed door to floor lobby",No Amp,No Amp,No Amp,27.5,Negative,40,21,17,4,23,11,12,,1,44,1,18,overnight
+5417,Barnhart,Lobby,2/24/2021,66,1319,1515,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.8,Negative,40,21,17,4,23,11,12,,1,44,1,18,tracerec
+5418,Barnhart,Lobby,2/24/2021,66,1319,1515,4,TF,PUF,NA,33.4,No Amp,No Amp,28.2,Negative,37.8,21,17,4,23,11,12,,1,44,1,18,tracerec
+5302,Barnhart,Lobby,2/24/2021,63,NA,930,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.3,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5304,Barnhart,Lobby,2/24/2021,63,NA,930,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,29,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5377,Barnhart,Lobby,2/24/2021,64,NA,1200,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.1,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5378,Barnhart,Lobby,2/24/2021,64,NA,1200,NA,Door South,Settling Plate,NA,23.1,24.9,24.5,23.7,Positive (3/3),24.2,21,17,4,23,11,12,,1,44,1,18,
+5379,Barnhart,Lobby,2/24/2021,64,NA,1200,NA,Door West,Settling Plate,NA,34.2,No Amp,No Amp,28.9,Negative,38.1,21,17,4,23,11,12,,1,44,1,18,
+5382,Barnhart,Lobby,2/24/2021,65,NA,1319,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,26.9,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5383,Barnhart,Lobby,2/24/2021,65,NA,1319,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5384,Barnhart,Lobby,2/24/2021,65,NA,1319,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.6,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5420,Barnhart,Lobby,2/24/2021,66,NA,1515,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,28.8,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5421,Barnhart,Lobby,2/24/2021,66,NA,1515,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.4,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5456,Barnhart,Lobby,2/24/2021,67,NA,1708,NA,Next to TFS,Settling Plate,NA,33.3,No Amp,No Amp,32.4,Negative,37.8,21,17,4,23,11,12,,1,44,1,18,
+5457,Barnhart,Lobby,2/24/2021,67,NA,1708,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,31.6,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5458,Barnhart,Lobby,2/24/2021,67,NA,1708,NA,Door West,Settling Plate,NA,33.2,No Amp,No Amp,34,Negative,37.7,21,17,4,23,11,12,,1,44,1,18,
+5495,Barnhart,Lobby,2/24/2021,68,NA,825,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.3,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5496,Barnhart,Lobby,2/24/2021,68,NA,825,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,25.8,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5497,Barnhart,Lobby,2/24/2021,68,NA,825,NA,Door West,Settling Plate,NA,24.6,No Amp,No Amp,25.6,Negative,34.9,21,17,4,23,11,12,,1,44,1,18,
+5303,Barnhart,Lobby,2/24/2021,63,NA,930,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5419,Barnhart,Lobby,2/24/2021,66,NA,1515,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,21,17,4,23,11,12,,1,44,1,18,
+5460,Barnhart,Roof,2/24/2021,21,NA,1658,NA,Roof port,swab,NA,31.6,No Amp,No Amp,29.7,Negative,37.2,21,17,4,23,11,12,,1,44,1,18,
+5306,Barnhart,Roof,2/24/2021,20,NA,1055,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,21,17,4,23,11,12,,1,44,1,18,
+5539,Barnhart,7 Hall North,2/25/2021,2,828,1100,1,TF,PUF,"Launched Hallway Sampler, closed door to floor lobby",31.5,No Amp,No Amp,No Amp,Negative,37.2,23,19,4,19,11,8,,1,42,1,19,posrec
+5540,Barnhart,2 Hall North,2/25/2021,2,830,1105,7,TF,PUF,"Launched Hallway Sampler, closed door to floor lobby",28.6,25.7,No Amp,26.1,Positive (2/3),31.4,23,19,4,19,11,8,,1,42,1,19,posrec
+5653,Barnhart,Lobby,2/25/2021,72,1530,1730,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.8,Negative,40,23,19,4,19,11,8,,1,42,1,19,aftertrac
+5654,Barnhart,Lobby,2/25/2021,72,1530,1730,4,TF,PUF,NA,No Amp,No Amp,No Amp,28.2,Negative,38.7,23,19,4,19,11,8,,1,42,1,19,aftertrac
+5781,Barnhart,Roof,2/25/2021,24,940,1610,5,Roof Exhaust TF,PUF,moved location from #49 to #31,No Amp,No Amp,No Amp,28.6,Negative,38.9,23,19,4,19,11,8,,1,42,1,19,both
+5612,Barnhart,7 Hall North,2/25/2021,3,1100,1249,1,TF,PUF,"Launched Hallway Sampler, closed door to floor lobby",No Amp,No Amp,No Amp,27.2,Negative,40,23,19,4,19,11,8,,1,42,1,19,other
+5613,Barnhart,2 Hall North,2/25/2021,3,1105,1254,7,TF,PUF,"Launched Hallway Sampler, closed door to floor lobby",29.7,23.7,26.7,26.3,Positive (3/3),26.7,23,19,4,19,11,8,,1,42,1,19,other
+5607,Barnhart,Lobby,2/25/2021,70,1055,1300,3,TF,PUF,NA,NA,NA,NA,NA,NA,NA,23,19,4,19,11,8,,1,42,1,19,between
+5608,Barnhart,Lobby,2/25/2021,70,1055,1300,4,TF,PUF,NA,31,No Amp,No Amp,27.1,Negative,37,23,19,4,19,11,8,,1,42,1,19,between
+5619,Barnhart,7 Hall North,2/25/2021,4,1249,1530,1,TF,PUF,NA,30.8,No Amp,No Amp,27.5,Negative,36.9,23,19,4,19,11,8,,1,42,1,19,tracerec
+5620,Barnhart,2 Hall North,2/25/2021,4,1254,1530,7,TF,PUF,NA,33.2,No Amp,No Amp,29.6,Negative,37.7,23,19,4,19,11,8,,1,42,1,19,tracerec
+5696,Barnhart,Lobby,2/25/2021,73,1730,845,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.1,Negative,40,23,19,4,19,11,8,,1,42,1,19,overnight
+5803,Barnhart,Lobby,2/27/2021,77,1730,1728,3,TF,PUF,NA,NA,NA,NA,NA,NA,NA,19,14,5,11,2,9,,1,30,1,21,overnight
+5658,Barnhart,7 Hall North,2/25/2021,5,1530,1736,1,TF,PUF,NA,32.7,No Amp,No Amp,28.2,Negative,37.6,23,19,4,19,11,8,,1,42,1,19,aftertrac
+5659,Barnhart,2 Hall North,2/25/2021,5,1550,1810,7,TF,PUF,NA,24.8,No Amp,No Amp,27.3,Negative,34.9,23,19,4,19,11,8,,1,42,1,19,aftertrac
+5534,Barnhart,Lobby,2/25/2021,69,825,1055,3,TF,PUF,NA,No Amp,No Amp,No Amp,24.9,Negative,40,23,19,4,19,11,8,,1,42,1,19,posrec
+5535,Barnhart,Lobby,2/25/2021,69,825,1055,4,TF,PUF,NA,No Amp,No Amp,No Amp,27.8,Negative,40,23,19,4,19,11,8,,1,42,1,19,posrec
+5694,Barnhart,7 Hall North,2/25/2021,5,1736,845,1,TF,PUF,NA,NA,NA,NA,NA,NA,NA,23,19,4,19,11,8,,1,42,1,19,overnight
+5615,Barnhart,Lobby,2/25/2021,71,1300,1530,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,23,19,4,19,11,8,,1,42,1,19,tracerec
+5614,Barnhart,Lobby,2/25/2021,71,1300,1530,3,TF,PUF,NA,No Amp,No Amp,No Amp,28.6,Negative,40,23,19,4,19,11,8,,1,42,1,19,tracerec
+5695,Barnhart,2 Hall North,2/25/2021,5,1810,845,7,TF,PUF,NA,28.3,26.6,26.5,28,Positive (3/3),27.2,23,19,4,19,11,8,,1,42,1,19,overnight
+5692,Barnhart,Roof,2/25/2021,24,1850,940,5,Roof Exhaust TF,PUF,NA,34.6,No Amp,No Amp,27.8,Negative,38.2,23,19,4,19,11,8,,1,42,1,19,overnight
+5536,Barnhart,Lobby,2/25/2021,69,NA,1055,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,23.9,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5537,Barnhart,Lobby,2/25/2021,69,NA,1055,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,23.8,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5611,Barnhart,Lobby,2/25/2021,70,NA,1300,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.1,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5616,Barnhart,Lobby,2/25/2021,71,NA,1530,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,29.6,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5617,Barnhart,Lobby,2/25/2021,71,NA,1530,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,26.9,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5618,Barnhart,Lobby,2/25/2021,71,NA,1530,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,29.5,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5655,Barnhart,Lobby,2/25/2021,72,NA,1730,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.1,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5656,Barnhart,Lobby,2/25/2021,72,NA,1730,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.7,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5657,Barnhart,Lobby,2/25/2021,72,NA,1730,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,26.9,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5538,Barnhart,Lobby,2/25/2021,69,NA,1055,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5609,Barnhart,Lobby,2/25/2021,70,NA,1300,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,23,19,4,19,11,8,,1,42,1,19,
+5610,Barnhart,Lobby,2/25/2021,70,NA,1300,NA,Door South,Settling Plate,NA,NA,NA,NA,NA,NA,NA,23,19,4,19,11,8,,1,42,1,19,
+5533,Barnhart,Roof,2/25/2021,21,NA,1105,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,23.4,Negative,40,23,19,4,19,11,8,,1,42,1,19,
+5606,Barnhart,Roof,2/25/2021,22,NA,1850,NA,Roof port,swab,NA,31.7,No Amp,No Amp,25.5,Negative,37.2,23,19,4,19,11,8,,1,42,1,19,
+5724,Barnhart,2 Hall North,2/26/2021,6,900,1130,7,TF,PUF,NA,26.6,24.2,27.1,27.4,Positive (3/3),26,25,20,5,13,5,8,,1,38,1,20,posrec
+5723,Barnhart,7 Hall North,2/26/2021,6,900,1122,1,TF,PUF,NA,32.1,No Amp,29.4,29.1,Positive (2/3),33.8,25,20,5,13,5,8,,1,38,1,20,posrec
+5794,Barnhart,Lobby,2/26/2021,76,1700,1730,3,TF,PUF,NA,31.9,30.2,No Amp,28.2,Positive (2/3),34,25,20,5,13,5,8,,1,38,1,20,aftertrac
+5795,Barnhart,Lobby,2/26/2021,76,1700,1730,4,TF,PUF,machine not turned on,26.1,26.3,27.1,27.3,Positive (3/3),26.5,25,20,5,13,5,8,,1,38,1,20,aftertrac
+5752,Barnhart,7 Hall North,2/26/2021,7,1122,1252,1,TF,PUF,NA,32.9,24.8,No Amp,29.5,Positive (2/3),32.6,25,20,5,13,5,8,,1,38,1,20,other
+5753,Barnhart,2 Hall North,2/26/2021,7,1130,1256,7,TF,PUF,NA,30.3,27.1,28,30.4,Positive (3/3),28.4,25,20,5,13,5,8,,1,38,1,20,other
+5754,Barnhart,Lobby,2/26/2021,75,1129,1252,3,TF,PUF,NA,26.3,No Amp,No Amp,27.1,Negative,35.4,25,20,5,13,5,8,,1,38,1,20,between
+5783,Barnhart,7 Hall North,2/26/2021,7,1252,1710,1,TF,PUF,NA,33,31.6,No Amp,27.3,Positive (2/3),33.7,25,20,5,13,5,8,,1,38,1,20,tracplus
+5755,Barnhart,Lobby,2/26/2021,75,1129,1252,4,TF,PUF,NA,No Amp,No Amp,No Amp,29.2,Negative,40,25,20,5,13,5,8,,1,38,1,20,between
+5784,Barnhart,2 Hall North,2/26/2021,7,1256,1710,7,TF,PUF,NA,28.3,26.6,29.9,28.9,Positive (3/3),28.3,25,20,5,13,5,8,,1,38,1,20,tracplus
+5790,Barnhart,Roof,2/26/2021,24,1610,1735,5,Roof Exhaust TF,PUF,machine was not running-power cord disconnected,No Amp,No Amp,No Amp,28.7,Negative,40,25,20,5,13,5,8,,1,38,1,20,overnight
+5725,Barnhart,Lobby,2/26/2021,74,900,1129,3,TF,PUF,NA,30,29.7,30,32.6,Positive (3/3),29.9,25,20,5,13,5,8,,1,38,1,20,posrec
+5726,Barnhart,Lobby,2/26/2021,74,900,1129,4,TF,PUF,NA,30.7,24.8,29.1,30.6,Positive (3/3),28.2,25,20,5,13,5,8,,1,38,1,20,posrec
+5793,Barnhart,2 Hall North,2/26/2021,7,1710,1728,7,TF,PUF,NA,26.5,24.3,26.7,28.1,Positive (3/3),25.8,25,20,5,13,5,8,,1,38,1,20,overnight
+5792,Barnhart,7 Hall North,2/26/2021,7,1710,1732,1,TF,PUF,NA,31.4,30.1,31,27.8,Positive (3/3),30.8,25,20,5,13,5,8,,1,38,1,20,overnight
+5785,Barnhart,Lobby,2/26/2021,75,1252,1700,3,TF,PUF,NA,29.8,No Amp,No Amp,27.6,Negative,36.6,25,20,5,13,5,8,,1,38,1,20,tracerec
+5786,Barnhart,Lobby,2/26/2021,75,1252,1700,4,TF,PUF,NA,31.7,No Amp,No Amp,27.5,Negative,37.2,25,20,5,13,5,8,,1,38,1,20,tracerec
+5698,Barnhart,Lobby,2/26/2021,73,NA,845,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25.6,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5699,Barnhart,Lobby,2/26/2021,73,NA,845,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,29.5,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5700,Barnhart,Lobby,2/26/2021,73,NA,845,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.8,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5727,Barnhart,Lobby,2/26/2021,74,NA,1129,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,24.2,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5728,Barnhart,Lobby,2/26/2021,74,NA,1129,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.3,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5729,Barnhart,Lobby,2/26/2021,74,NA,1129,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,23.9,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5756,Barnhart,Lobby,2/26/2021,75,NA,1255,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25.5,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5757,Barnhart,Lobby,2/26/2021,75,NA,1255,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.6,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5787,Barnhart,Lobby,2/26/2021,75,NA,1700,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,27.7,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5788,Barnhart,Lobby,2/26/2021,75,NA,1700,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,27.1,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5789,Barnhart,Lobby,2/26/2021,75,NA,1700,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5758,Barnhart,Lobby,2/26/2021,75,NA,1258,NA,Door West,Settling Plate,NA,NA,NA,NA,NA,NA,NA,25,20,5,13,5,8,,1,38,1,20,
+5782,Barnhart,Roof,2/26/2021,23,NA,1610,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,24,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5693,Barnhart,Roof,2/26/2021,23,NA,940,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,25,20,5,13,5,8,,1,38,1,20,
+5804,Barnhart,Lobby,2/27/2021,77,1730,1728,4,TF,PUF,NA,34.5,No Amp,No Amp,28.3,Negative,38.2,19,14,5,11,2,9,,1,30,1,21,overnight
+5994,Barnhart,Lobby,3/12/2021,89,1736,1052,3,TF,PUF,removed samplers,33.7,No Amp,No Amp,29.6,Negative,37.9,7,7,,6,,6,,,13,0,34,overnight
+5802,Barnhart,2 Hall North,2/27/2021,8,1728,1730,7,TF,PUF,NA,27.6,25.4,23.7,27.6,Positive (3/3),25.6,19,14,5,11,2,9,,1,30,1,21,overnight
+5801,Barnhart,7 Hall North,2/27/2021,8,1732,1734,1,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,19,14,5,11,2,9,,1,30,1,21,overnight
+5799,Barnhart,Roof,2/27/2021,25,1735,1740,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,25.9,Negative,40,19,14,5,11,2,9,,1,30,1,21,overnight
+5797,Barnhart,Lobby,2/27/2021,76,NA,1730,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,28.8,Negative,40,19,14,5,11,2,9,,1,30,1,21,
+5798,Barnhart,Lobby,2/27/2021,76,NA,1730,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,23.6,Negative,40,19,14,5,11,2,9,,1,30,1,21,
+5796,Barnhart,Lobby,2/27/2021,76,NA,1730,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,19,14,5,11,2,9,,1,30,1,21,
+5791,Barnhart,Roof,2/27/2021,23,NA,1735,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,25.4,Negative,40,19,14,5,11,2,9,,1,30,1,21,
+5814,Barnhart,2 Hall North,2/28/2021,9,1730,1822,7,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,14,12,2,10,2,8,,1,24,1,22,overnight
+5813,Barnhart,7 Hall North,2/28/2021,9,1734,1600,1,TF,PUF,Sample collected 3/1/2021 @ 1600,NA,NA,NA,NA,NA,NA,14,12,2,10,2,8,,1,24,1,22,overnight
+5815,Barnhart,Roof,2/28/2021,26,1740,1835,5,Roof Exhaust TF,PUF,NA,31.9,No Amp,30,No Amp,Positive (2/3),34,14,12,2,10,2,8,,1,24,1,22,overnight
+5805,Barnhart,Lobby,2/28/2021,77,NA,1728,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.1,Negative,40,14,12,2,10,2,8,,1,24,1,22,
+5806,Barnhart,Lobby,2/28/2021,77,NA,1728,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.5,Negative,40,14,12,2,10,2,8,,1,24,1,22,
+5807,Barnhart,Lobby,2/28/2021,77,NA,1728,NA,Door West,Settling Plate,NA,NA,NA,NA,NA,NA,NA,14,12,2,10,2,8,,1,24,1,22,
+5800,Barnhart,Roof,2/28/2021,24,NA,1740,NA,Roof port,swab,NA,32,No Amp,No Amp,No Amp,Negative,37.3,14,12,2,10,2,8,,1,24,1,22,
+5995,Barnhart,Lobby,3/12/2021,89,1736,1052,4,TF,PUF,NA,33.1,No Amp,No Amp,29.7,Negative,37.7,7,7,,6,,6,,,13,0,34,overnight
+5974,Barnhart,Lobby,3/11/2021,88,1743,1736,3,TF,PUF,NA,34.1,No Amp,No Amp,26.3,Negative,38,7,7,,6,,6,,,13,0,33,overnight
+5975,Barnhart,Lobby,3/11/2021,88,1743,1736,4,TF,PUF,NA,34.7,No Amp,No Amp,28.6,Negative,38.2,7,7,,6,,6,,,13,0,33,overnight
+5825,Barnhart,Lobby,3/2/2021,80,1750,1700,3,TF,PUF,NA,27.7,No Amp,No Amp,No Amp,Negative,35.9,11,10,1,10,2,8,,1,21,1,24,overnight
+5822,Barnhart,2 Hall North,3/1/2021,10,1822,1801,7,TF,PUF,NA,28.4,28.8,23.4,28,Positive (3/3),26.9,13,12,1,10,2,8,,1,23,1,23,overnight
+5810,Barnhart,Lobby,3/1/2021,78,NA,1812,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,24.8,Negative,40,13,12,1,10,2,8,,1,23,1,23,
+5811,Barnhart,Lobby,3/1/2021,78,NA,1812,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,22.3,Negative,40,13,12,1,10,2,8,,1,23,1,23,
+5812,Barnhart,Lobby,3/1/2021,78,NA,1812,NA,Door West,Settling Plate,NA,NA,NA,NA,NA,NA,NA,13,12,1,10,2,8,,1,23,1,23,
+5816,Barnhart,Roof,3/1/2021,25,NA,1835,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,27.2,Negative,40,13,12,1,10,2,8,,1,23,1,23,
+5826,Barnhart,Lobby,3/2/2021,80,1750,1700,4,TF,PUF,NA,31,30.5,28.4,28.6,Positive (3/3),30,11,10,1,10,2,8,,1,21,1,24,overnight
+5923,Barnhart,Lobby,3/8/2021,86,1757,1645,3,TF,PUF,NA,No Amp,31.8,No Amp,28,Negative,36.6,5,5,,10,1,9,,1,15,1,30,overnight
+5832,Barnhart,Roof,3/2/2021,28,1720,1720,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,27.6,Negative,40,11,10,1,10,2,8,,1,21,1,24,overnight
+5823,Barnhart,Roof,3/2/2021,27,1835,1808,5,Roof Exhaust TF,PUF,NA,33.1,No Amp,29.7,27.3,Positive (2/3),34.2,11,10,1,10,2,8,,1,21,1,24,overnight
+5820,Barnhart,Lobby,3/2/2021,79,NA,1750,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,24.6,Negative,40,11,10,1,10,2,8,,1,21,1,24,
+5821,Barnhart,Lobby,3/2/2021,79,NA,1750,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,24.4,Negative,40,11,10,1,10,2,8,,1,21,1,24,
+5819,Barnhart,Lobby,3/2/2021,79,NA,1750,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,11,10,1,10,2,8,,1,21,1,24,
+5824,Barnhart,Roof,3/2/2021,26,NA,1808,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,28,Negative,40,11,10,1,10,2,8,,1,21,1,24,
+5924,Barnhart,Lobby,3/8/2021,86,1757,1645,4,TF,PUF,NA,26.3,25.1,28.2,30,Positive (3/3),26.5,5,5,,10,1,9,,1,15,1,30,overnight
+4535,Barnhart,Lobby,2/16/2021,36,1758,901,3,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,37,30,7,38,21,17,,1,75,1,10,overnight
+5841,Barnhart,Roof,3/3/2021,29,1720,1529,5,Roof Exhaust TF,PUF,NA,NA,NA,NA,NA,NA,NA,9,8,1,8,2,6,,1,17,1,25,overnight
+5831,Barnhart,2 Hall North,3/3/2021,11,1801,1708,7,TF,PUF,NA,29.4,29.4,29,28.1,Positive (3/3),29.3,9,8,1,8,2,6,,1,17,1,25,overnight
+5830,Barnhart,7 Hall North,3/3/2021,10,1801,1717,1,TF,PUF,NA,34.6,No Amp,26.6,28.3,Positive (2/3),33.7,9,8,1,8,2,6,,1,17,1,25,overnight
+5829,Barnhart,Lobby,3/3/2021,80,NA,1700,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,28.6,Negative,40,9,8,1,8,2,6,,1,17,1,25,
+5827,Barnhart,Lobby,3/3/2021,80,NA,1700,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,9,8,1,8,2,6,,1,17,1,25,
+5828,Barnhart,Lobby,3/3/2021,80,NA,1700,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,9,8,1,8,2,6,,1,17,1,25,
+5833,Barnhart,Roof,3/3/2021,27,NA,1720,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,23.3,Negative,40,9,8,1,8,2,6,,1,17,1,25,
+5834,Barnhart,Lobby,3/4/2021,82,1512,1802,3,TF,PUF,moved to exhaust #30,No Amp,No Amp,No Amp,29.3,Negative,40,9,9,,10,2,8,,1,19,1,26,aftertrac
+5835,Barnhart,Lobby,3/4/2021,82,1512,1802,4,TF,PUF,NA,30.9,25.7,No Amp,28.1,Positive (2/3),32.2,9,9,,10,2,8,,1,19,1,26,aftertrac
+5841,Barnhart,Roof,3/4/2021,30,1529,1810,5,Roof Exhaust TF,PUF,NA,NA,NA,NA,NA,NA,NA,9,9,,10,2,8,,1,19,1,26,aftertrac
+5840,Barnhart,2 Hall North,3/4/2021,12,1708,1520,7,TF,PUF,NA,29,27.8,32.1,29.6,Positive (3/3),29.6,9,9,,10,2,8,,1,19,1,26,overnight
+5839,Barnhart,7 Hall North,3/4/2021,11,1717,1523,1,TF,PUF,NA,No Amp,No Amp,No Amp,28.9,Negative,40,9,9,,10,2,8,,1,19,1,26,overnight
+5838,Barnhart,Lobby,3/4/2021,81,NA,1512,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.8,Negative,40,9,9,,10,2,8,,1,19,1,26,
+5836,Barnhart,Lobby,3/4/2021,81,NA,1512,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,9,9,,10,2,8,,1,19,1,26,
+5837,Barnhart,Lobby,3/4/2021,81,NA,1512,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,9,9,,10,2,8,,1,19,1,26,
+5842,Barnhart,Roof,3/4/2021,28,NA,1529,NA,Roof port,swab,NA,31.2,No Amp,No Amp,28.3,Negative,37.1,9,9,,10,2,8,,1,19,1,26,
+5854,Barnhart,Lobby,3/5/2021,83,1802,1950,3,TF,PUF,NA,30.3,32,27.9,28.1,Positive (3/3),30.1,11,11,,7,1,6,,1,18,1,27,aftertrac
+5855,Barnhart,Lobby,3/5/2021,83,1802,1950,4,TF,PUF,NA,32.3,No Amp,No Amp,27.8,Negative,37.4,11,11,,7,1,6,,1,18,1,27,aftertrac
+5840,Barnhart,2 Hall North,3/5/2021,13,1520,1805,7,TF,PUF,NA,29,27.8,32.1,29.6,Positive (3/3),29.6,11,11,,7,1,6,,1,18,1,27,aftertrac
+5839,Barnhart,7 Hall North,3/5/2021,12,1523,1807,1,TF,PUF,NA,No Amp,No Amp,No Amp,28.9,Negative,40,11,11,,7,1,6,,1,18,1,27,aftertrac
+5860,Barnhart,2 Hall North,3/5/2021,14,1805,1954,7,TF,PUF,NA,30.6,30.4,29.1,28.1,Positive (3/3),30,11,11,,7,1,6,,1,18,1,27,aftertrac
+5859,Barnhart,7 Hall North,3/5/2021,13,1807,1957,1,TF,PUF,NA,35,No Amp,No Amp,27.6,Negative,38.3,11,11,,7,1,6,,1,18,1,27,aftertrac
+5861,Barnhart,Roof,3/5/2021,31,1810,2000,5,Roof Exhaust TF,PUF,NA,NA,NA,NA,NA,NA,NA,11,11,,7,1,6,,1,18,1,27,aftertrac
+5838,Barnhart,Lobby,3/5/2021,82,NA,1803,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,25.8,Negative,40,11,11,,7,1,6,,1,18,1,27,
+5836,Barnhart,Lobby,3/5/2021,82,NA,1802,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,11,11,,7,1,6,,1,18,1,27,
+5837,Barnhart,Lobby,3/5/2021,82,NA,1803,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,11,11,,7,1,6,,1,18,1,27,
+5842,Barnhart,Roof,3/5/2021,29,NA,1810,NA,Roof port,swab,NA,31.2,No Amp,No Amp,28.3,Negative,37.1,11,11,,7,1,6,,1,18,1,27,
+4536,Barnhart,Lobby,2/16/2021,36,1758,901,4,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,37,30,7,38,21,17,,1,75,1,10,overnight
+5874,Barnhart,Lobby,3/6/2021,84,1802,1821,3,TF,PUF,NA,NA,NA,NA,NA,NA,NA,8,8,,12,1,11,,1,20,1,28,overnight
+5880,Barnhart,2 Hall North,3/6/2021,11,1805,1825,7,TF,PUF,NA,31.5,31.6,33.2,30.1,Positive (3/3),32.1,8,8,,12,1,11,,1,20,1,28,aftertrac
+5879,Barnhart,7 Hall North,3/6/2021,11,1807,1828,1,TF,PUF,NA,34,No Amp,No Amp,30.5,Negative,38,8,8,,12,1,11,,1,20,1,28,overnight
+5881,Barnhart,Roof,3/6/2021,32,1810,1830,5,Roof Exhaust TF,PUF,NA,NA,NA,NA,NA,NA,NA,8,8,,12,1,11,,1,20,1,28,overnight
+5856,Barnhart,Lobby,3/6/2021,83,NA,1950,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,25,Negative,40,8,8,,12,1,11,,1,20,1,28,
+5858,Barnhart,Lobby,3/6/2021,83,NA,1950,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,24.3,Negative,40,8,8,,12,1,11,,1,20,1,28,
+5857,Barnhart,Lobby,3/6/2021,83,NA,1950,NA,Door South,Settling Plate,NA,NA,NA,NA,NA,NA,NA,8,8,,12,1,11,,1,20,1,28,
+5862,Barnhart,Roof,3/6/2021,30,NA,2000,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,27.2,Negative,40,8,8,,12,1,11,,1,20,1,28,
+5875,Barnhart,Lobby,3/6/2021,84,1802,1821,4,TF,PUF,NA,29.4,No Amp,No Amp,30.6,Negative,36.5,8,8,,12,1,11,,1,20,1,28,overnight
+6022,Barnhart,Lobby,3/15/2021,92,1809,1610,4,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,No Amp,Negative,40,3,3,,6,,6,,,9,0,37,overnight
+5876,Barnhart,Lobby,3/7/2021,84,NA,1821,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,5,5,,10,1,9,,1,15,1,29,
+5877,Barnhart,Lobby,3/7/2021,84,NA,1821,NA,Door South,Settling Plate,NA,NA,NA,NA,NA,NA,NA,5,5,,10,1,9,,1,15,1,29,
+5878,Barnhart,Lobby,3/7/2021,84,NA,1821,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,5,5,,10,1,9,,1,15,1,29,
+5882,Barnhart,Roof,3/7/2021,31,NA,1830,NA,Roof port,swab,NA,29.8,No Amp,29.4,30.5,Positive (2/3),33.1,5,5,,10,1,9,,1,15,1,29,
+6021,Barnhart,Lobby,3/15/2021,92,1809,1610,3,TF,PUF,0 confirmed positive cases and 7 traced in building 7 South as of 11 AM 3/16,31.9,No Amp,No Amp,33.3,Negative,37.3,3,3,,6,,6,,,9,0,37,overnight
+5818,Barnhart,Lobby,3/1/2021,79,1812,1750,4,TF,PUF,NA,NA,NA,NA,NA,NA,NA,13,12,1,10,2,8,,1,23,1,23,overnight
+5899,Barnhart,2 Hall North,3/8/2021,12,1825,1727,7,TF,PUF,NA,29.2,No Amp,30.3,30.3,Positive (2/3),33.2,5,5,,10,1,9,,1,15,1,30,overnight
+5898,Barnhart,7 Hall North,3/8/2021,12,1828,1725,1,TF,PUF,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,5,5,,10,1,9,,1,15,1,30,overnight
+5900,Barnhart,Roof,3/8/2021,33,1830,1733,5,Roof Exhaust TF,PUF,NA,33.6,No Amp,No Amp,27.4,Negative,37.9,5,5,,10,1,9,,1,15,1,30,overnight
+5896,Barnhart,Lobby,3/8/2021,85,NA,1757,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,31.5,Negative,40,5,5,,10,1,9,,1,15,1,30,
+5895,Barnhart,Lobby,3/8/2021,85,NA,1757,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,5,5,,10,1,9,,1,15,1,30,
+5897,Barnhart,Lobby,3/8/2021,85,NA,1757,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,5,5,,10,1,9,,1,15,1,30,
+5901,Barnhart,Roof,3/8/2021,32,NA,1733,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,5,5,,10,1,9,,1,15,1,30,
+5928,Barnhart,2 Hall North,3/9/2021,13,1725,1634,7,TF,PUF,NA,32.5,No Amp,29.8,32,Positive (2/3),34.1,7,7,,8,1,7,,,15,0,31,overnight
+5929,Barnhart,7 Hall North,3/9/2021,13,1725,1640,1,TF,PUF,NA,30.5,No Amp,No Amp,30,Negative,36.8,7,7,,8,1,7,,,15,0,31,overnight
+5961,Barnhart,Roof,3/9/2021,35,1725,1740,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,32.8,Negative,40,7,7,,8,1,7,,,15,0,31,overnight
+5930,Barnhart,Roof,3/9/2021,34,1733,1725,5,Roof Exhaust TF,PUF,NA,32.2,No Amp,No Amp,31,Negative,37.4,7,7,,8,1,7,,,15,0,31,overnight
+5925,Barnhart,Lobby,3/9/2021,86,NA,1631,NA,Next to TFS,Settling Plate,NA,NA,NA,NA,NA,NA,NA,7,7,,8,1,7,,,15,0,31,
+5926,Barnhart,Lobby,3/9/2021,86,NA,1631,NA,Door South,Settling Plate,NA,NA,NA,NA,NA,NA,NA,7,7,,8,1,7,,,15,0,31,
+5927,Barnhart,Lobby,3/9/2021,86,NA,1631,NA,Door West,Settling Plate,NA,NA,NA,NA,NA,NA,NA,7,7,,8,1,7,,,15,0,31,
+5962,Barnhart,Roof,3/9/2021,34,NA,1740,NA,Roof port,swab,NA,30.7,No Amp,No Amp,26.7,Negative,36.9,7,7,,8,1,7,,,15,0,31,
+5931,Barnhart,Roof,3/9/2021,33,NA,1725,NA,Roof port,swab,NA,NA,NA,NA,NA,NA,NA,7,7,,8,1,7,,,15,0,31,
+5954,Barnhart,Lobby,3/10/2021,87,1645,1743,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.9,Negative,40,7,7,,7,1,6,,,14,0,32,aftertrac
+5955,Barnhart,Lobby,3/10/2021,87,1645,1743,4,TF,PUF,NA,32.5,31.2,19.8,30.1,Positive (3/3),27.9,7,7,,7,1,6,,,14,0,32,aftertrac
+5959,Barnhart,2 Hall North,3/10/2021,14,1634,1734,7,TF,PUF,NA,32.7,30.6,25.8,31.4,Positive (3/3),29.7,7,7,,7,1,6,,,14,0,32,aftertrac
+5960,Barnhart,7 Hall North,3/10/2021,14,1640,1738,1,TF,PUF,NA,33.4,33.1,No Amp,28.7,Positive (2/3),35.5,7,7,,7,1,6,,,14,0,32,aftertrac
+5981,Barnhart,Roof,3/10/2021,36,1740,1747,5,Roof Exhaust TF,PUF,NA,No Amp,No Amp,No Amp,28.9,Negative,40,7,7,,7,1,6,,,14,0,32,overnight
+5956,Barnhart,Lobby,3/10/2021,87,NA,1730,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,28.5,Negative,40,7,7,,7,1,6,,,14,0,32,
+5957,Barnhart,Lobby,3/10/2021,87,NA,1730,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,30.8,Negative,40,7,7,,7,1,6,,,14,0,32,
+5958,Barnhart,Lobby,3/10/2021,87,NA,1730,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,29.7,Negative,40,7,7,,7,1,6,,,14,0,32,
+5982,Barnhart,Roof,3/10/2021,35,NA,1747,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,31.7,Negative,40,7,7,,7,1,6,,,14,0,32,
+5817,Barnhart,Lobby,3/1/2021,79,1812,1750,3,TF,PUF,NA,31.7,33.5,28.7,27.9,Positive (3/3),31.3,13,12,1,10,2,8,,1,23,1,23,overnight
+4425,Barnhart,Lobby,2/15/2021,33,1815,903,3,TF,PUF,NA,No Amp,No Amp,No Amp,24.6,Negative,40,34,25,9,41,25,16,,1,75,1,9,overnight
+5979,Barnhart,2 Hall North,3/11/2021,15,1734,1752,7,TF,PUF,NA,32.4,No Amp,No Amp,28.1,Negative,37.5,7,7,,6,,6,,,13,0,33,overnight
+5980,Barnhart,7 Hall North,3/11/2021,15,1738,1745,1,TF,PUF,NA,No Amp,No Amp,No Amp,29.1,Negative,40,7,7,,6,,6,,,13,0,33,overnight
+6001,Barnhart,Roof,3/11/2021,37,1747,1810,5,Roof Exhaust TF,PUF,NA,33.4,32.9,No Amp,27.5,Positive (2/3),35.4,7,7,,6,,6,,,13,0,33,overnight
+5976,Barnhart,Lobby,3/11/2021,88,NA,1736,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,30.3,Negative,40,7,7,,6,,6,,,13,0,33,
+5977,Barnhart,Lobby,3/11/2021,88,NA,1736,NA,Door South,Settling Plate,NA,33.5,33.9,No Amp,31.1,Positive (2/3),35.8,7,7,,6,,6,,,13,0,33,
+5978,Barnhart,Lobby,3/11/2021,88,NA,1736,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,28.2,Negative,40,7,7,,6,,6,,,13,0,33,
+6002,Barnhart,Roof,3/11/2021,36,NA,1810,NA,Roof port,swab,NA,No Amp,No Amp,No Amp,28.1,Negative,40,7,7,,6,,6,,,13,0,33,
+4426,Barnhart,Lobby,2/15/2021,33,1815,903,4,TF,PUF,NA,28.1,No Amp,No Amp,25,Negative,36,34,25,9,41,25,16,,1,75,1,9,overnight
+5893,Barnhart,Lobby,3/7/2021,85,1821,1757,3,TF,PUF,NA,32.9,25.1,No Amp,29.4,Positive (2/3),32.7,5,5,,10,1,9,,1,15,1,29,overnight
+5894,Barnhart,Lobby,3/7/2021,85,1821,1757,4,TF,PUF,NA,No Amp,No Amp,29.4,30.4,Negative,36.5,5,5,,10,1,9,,1,15,1,29,overnight
+6003,Barnhart,Lobby,3/12/2021,90,1830,1530,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.9,Negative,40,7,7,,6,,6,,,13,0,34,overnight
+6000,Barnhart,7 Hall North,3/12/2021,16,1745,1755,1,TF,PUF,NA,34.7,No Amp,No Amp,28,Negative,38.2,7,7,,6,,6,,,13,0,34,overnight
+6008,Barnhart,2 Hall North,3/12/2021,17,1750,1515,7,TF,PUF,NA,30.6,30.6,No Amp,28.3,Positive (2/3),33.8,7,7,,6,,6,,,13,0,34,overnight
+5999,Barnhart,2 Hall North,3/12/2021,16,1752,1750,7,TF,PUF,NA,32.8,30.8,No Amp,28.6,Positive (2/3),34.5,7,7,,6,,6,,,13,0,34,overnight
+6009,Barnhart,7 Hall North,3/12/2021,17,1755,1520,1,TF,PUF,NA,33.3,No Amp,No Amp,28,Negative,37.8,7,7,,6,,6,,,13,0,34,overnight
+6010,Barnhart,Roof,3/12/2021,38,1810,1527,5,Roof Exhaust TF,PUF,NA,32.6,No Amp,No Amp,28.7,Negative,37.5,7,7,,6,,6,,,13,0,34,overnight
+5996,Barnhart,Lobby,3/12/2021,89,NA,1052,NA,Next to TFS,Settling Plate,NA,No Amp,No Amp,No Amp,29,Negative,40,7,7,,6,,6,,,13,0,34,
+5997,Barnhart,Lobby,3/12/2021,89,NA,1052,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,29.9,Negative,40,7,7,,6,,6,,,13,0,34,
+5998,Barnhart,Lobby,3/12/2021,89,NA,1052,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,32.4,Negative,40,7,7,,6,,6,,,13,0,34,
+6013,Barnhart,Lobby,3/13/2021,91,1530,1809,4,TF,PUF,NA,NA,NA,NA,NA,NA,NA,6,6,,6,,6,,,12,0,35,aftertrac
+6012,Barnhart,Lobby,3/13/2021,91,1530,1809,3,TF,PUF,NA,31.4,No Amp,No Amp,27.8,Negative,37.1,6,6,,6,,6,,,12,0,35,aftertrac
+6017,Barnhart,2 Hall North,3/13/2021,18,1515,1820,7,TF,PUF,NA,30.7,No Amp,No Amp,No Amp,Negative,36.9,6,6,,6,,6,,,12,0,35,aftertrac
+6018,Barnhart,7 Hall North,3/13/2021,18,1520,1823,1,TF,PUF,NA,30.6,30.9,No Amp,27.2,Positive (2/3),33.9,6,6,,6,,6,,,12,0,35,aftertrac
+6019,Barnhart,Roof,3/13/2021,39,1527,1829,5,Roof Exhaust TF,PUF,NA,30.3,No Amp,No Amp,No Amp,Negative,36.8,6,6,,6,,6,,,12,0,35,aftertrac
+6006,Barnhart,Lobby,3/13/2021,90,NA,1530,NA,Door South,Settling Plate,NA,No Amp,No Amp,No Amp,31.7,Negative,38.3,6,6,,6,,6,,,12,0,35,
+6007,Barnhart,Lobby,3/13/2021,90,NA,1530,NA,Door West,Settling Plate,NA,30.2,No Amp,No Amp,27.7,Negative,36.7,6,6,,6,,6,,,12,0,35,
+6011,Barnhart,Roof,3/13/2021,37,NA,1527,NA,Roof port,swab,NA,33.3,No Amp,No Amp,29,Negative,37.8,6,6,,6,,6,,,12,0,35,
+filler,filler,filler,3/14/2021,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,filler,4,4,,6,,6,,,10,,36,
+6004,Barnhart,Lobby,3/12/2021,90,1830,1530,4,TF,PUF,NA,No Amp,No Amp,No Amp,27.9,Negative,40,7,7,,6,,6,,,13,0,34,overnight
+3979,Barnhart,Lobby,2/9/2021,15,1900,839,3,TF,PUF,NA,31,32.1,24.3,29,Positive (3/3),29.1,62,45,17,43,26,17,1,,105,1,3,overnight
+6026,Barnhart,2 Hall North,3/15/2021,19,1820,1605,7,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,NA,NA,NA,NA,NA,NA,3,3,,6,,6,,,9,0,37,overnight
+6027,Barnhart,7 Hall North,3/15/2021,19,1823,1607,1,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,25.6,No Amp,No Amp,20.6,Negative,35.2,3,3,,6,,6,,,9,0,37,overnight
+6028,Barnhart,Roof,3/15/2021,40,1829,1609,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,30.9,No Amp,No Amp,No Amp,Negative,37,3,3,,6,,6,,,9,0,37,overnight
+6015,Barnhart,Lobby,3/15/2021,91,NA,1809,NA,Door South,Settling Plate,NA,33.8,No Amp,No Amp,29.9,Negative,37.9,3,3,,6,,6,,,9,0,37,
+6016,Barnhart,Lobby,3/15/2021,91,NA,1809,NA,Door West,Settling Plate,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,3,3,,6,,6,,,9,0,37,
+6014,Barnhart,Lobby,3/15/2021,91,NA,1809,NA,Negative Swab,Swab,NA,No Amp,No Amp,No Amp,No Amp,Negative,40,3,3,,6,,6,,,9,0,37,
+6020,Barnhart,Roof,3/15/2021,38,NA,1829,NA,Roof port,swab,NA,34.9,No Amp,No Amp,30.3,Negative,38.3,3,3,,6,,6,,,9,0,37,
+4134,Barnhart,Lobby,2/11/2021,20,1902,820,3,TF,PUF,NA,28.2,No Amp,29.7,24.8,Positive (2/3),32.6,69,51,18,46,20,26,,1,115,1,5,overnight
+5300,Barnhart,Lobby,2/23/2021,63,1904,930,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.2,Negative,40,20,16,4,25,12,13,,1,45,1,17,overnight
+6035,Barnhart,2 Hall North,3/16/2021,20,1605,1510,7,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,28.3,Negative,40,1,1,,6,,6,,,7,0,38,overnight
+6036,Barnhart,7 Hall North,3/16/2021,20,1607,1515,1,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,29,Negative,40,1,1,,6,,6,,,7,0,38,overnight
+6037,Barnhart,Roof,3/16/2021,41,1609,1520,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,29,Negative,40,1,1,,6,,6,,,7,0,38,overnight
+6023,Barnhart,Lobby,3/16/2021,92,NA,1601,NA,Negative Swab,Swab,0 confirmed positive cases and 7 traced in building on 7th floor South,33.5,No Amp,No Amp,28.7,Negative,37.8,1,1,,6,,6,,,7,0,38,
+6024,Barnhart,Lobby,3/16/2021,92,NA,1601,NA,Door South,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,34.7,No Amp,No Amp,28.5,Negative,38.2,1,1,,6,,6,,,7,0,38,
+6025,Barnhart,Lobby,3/16/2021,92,NA,1601,NA,Door West,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,30.5,Negative,40,1,1,,6,,6,,,7,0,38,
+6029,Barnhart,Roof,3/16/2021,39,NA,1609,NA,Roof port,swab,0 confirmed positive cases and 7 traced in building on 7th floor South,33.3,No Amp,No Amp,29,Negative,37.8,1,1,,6,,6,,,7,0,38,
+5301,Barnhart,Lobby,2/23/2021,63,1904,930,4,TF,PUF,NA,No Amp,33.6,No Amp,29.8,Negative,37.9,20,16,4,25,12,13,,1,45,1,17,overnight
+3578,Barnhart,Lobby,2/7/2021,5,1906,858,3,TF,PUF,NA,24.8,23.4,22.9,25.7,Positive (3/3),23.7,47,32,15,40,26,14,1,,87,1,1,overnight
+6044,Barnhart,2 Hall North,3/17/2021,21,1510,1531,7,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,33.6,No Amp,No Amp,No Amp,Negative,37.9,0,0,,6,,6,,,6,0,39,aftertrac
+6045,Barnhart,7 Hall North,3/17/2021,21,1515,1524,1,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,32.2,No Amp,No Amp,28.5,Negative,37.4,0,0,,6,,6,,,6,0,39,overnight
+6032,Barnhart,Lobby,3/17/2021,93,NA,1503,NA,Negative Swab,Swab,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.7,Negative,40,0,0,,6,,6,,,6,0,39,
+6033,Barnhart,Lobby,3/17/2021,93,NA,1503,NA,Door South,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,33.4,No Amp,No Amp,27.6,Negative,37.8,0,0,,6,,6,,,6,0,39,
+6034,Barnhart,Lobby,3/17/2021,93,NA,1503,NA,Door West,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.9,Negative,40,0,0,,6,,6,,,6,0,39,
+6038,Barnhart,Roof,3/17/2021,40,NA,1520,NA,Roof port,swab,0 confirmed positive cases and 7 traced in building on 7th floor South,34.4,No Amp,No Amp,26.7,Negative,38.1,0,0,,6,,6,,,6,0,39,
+4284,Barnhart,Lobby,2/12/2021,25,1906,900,3,TF,PUF,NA,No Amp,No Amp,No Amp,25.5,Negative,40,69,54,15,52,28,24,,1,121,1,6,overnight
+5139,Barnhart,Lobby,2/22/2021,57,1908,910,3,TF,PUF,NA,No Amp,No Amp,No Amp,29.7,Negative,40,21,15,6,25,12,13,,1,46,1,16,overnight
+6046,Barnhart,Roof,3/18/2021,42,1520,1529,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,31.6,No Amp,No Amp,30.9,Negative,37.2,0,0,,6,,6,,,6,0,40,overnight
+6054,Barnhart,7 Hall North,3/18/2021,22,1524,1218,1,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,23.9,No Amp,No Amp,25.6,Negative,34.6,0,0,,6,,6,,,6,0,40,overnight
+6055,Barnhart,Roof,3/18/2021,43,1529,1227,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,30.9,No Amp,No Amp,No Amp,Negative,37,0,0,,6,,6,,,6,0,40,overnight
+6053,Barnhart,2 Hall North,3/18/2021,22,1531,1207,7,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,34.4,No Amp,No Amp,29.4,Negative,38.1,0,0,,6,,6,,,6,0,40,overnight
+6042,Barnhart,Lobby,3/18/2021,94,NA,1520,NA,Door South,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,32.6,No Amp,No Amp,27.2,Negative,37.5,0,0,,6,,6,,,6,0,40,
+6043,Barnhart,Lobby,3/18/2021,94,NA,1520,NA,Door West,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.7,Negative,40,0,0,,6,,6,,,6,0,40,
+6041,Barnhart,Lobby,3/18/2021,94,NA,1520,NA,Negative Swab,Swab,0 confirmed positive cases and 7 traced in building on 7th floor South,NA,NA,NA,NA,NA,NA,0,0,,6,,6,,,6,0,40,
+6062,Barnhart,2 Hall North,3/19/2021,23,1207,1120,7,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,34.7,No Amp,No Amp,29.1,Negative,38.2,0,0,,5,,5,,,5,0,41,overnight
+6063,Barnhart,7 Hall North,3/19/2021,23,1218,1110,1,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,32.7,No Amp,No Amp,27.4,Negative,37.6,0,0,,5,,5,,,5,0,41,overnight
+6064,Barnhart,Roof,3/19/2021,44,1227,1115,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,28.5,Negative,40,0,0,,5,,5,,,5,0,41,overnight
+5140,Barnhart,Lobby,2/22/2021,57,1908,910,4,TF,PUF,NA,No Amp,No Amp,No Amp,28.8,Negative,40,21,15,6,25,12,13,,1,46,1,16,overnight
+4970,Barnhart,Lobby,2/20/2021,52,1925,907,3,TF,PUF,NA,No Amp,No Amp,No Amp,27.1,Negative,40,28,21,7,26,14,12,,,54,0,14,overnight
+6050,Barnhart,Lobby,3/19/2021,95,NA,1202,NA,Negative Swab,Swab,0 confirmed positive cases and 7 traced in building on 7th floor South,32.7,No Amp,No Amp,28.2,Negative,37.6,0,0,,5,,5,,,5,0,41,
+6051,Barnhart,Lobby,3/19/2021,95,NA,1202,NA,Door South,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.6,Negative,40,0,0,,5,,5,,,5,0,41,
+6052,Barnhart,Lobby,3/19/2021,95,NA,1202,NA,Door West,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,32.9,No Amp,No Amp,28.6,Negative,37.6,0,0,,5,,5,,,5,0,41,
+6047,Barnhart,Roof,3/19/2021,41,NA,1529,NA,Roof port,swab,0 confirmed positive cases and 7 traced in building on 7th floor South,34.5,No Amp,No Amp,28,Negative,38.2,0,0,,5,,5,,,5,0,41,
+6056,Barnhart,Roof,3/19/2021,42,NA,1227,NA,Roof port,swab,0 confirmed positive cases and 7 traced in building on 7th floor South,34.5,No Amp,No Amp,28.3,Negative,38.2,0,0,,5,,5,,,5,0,41,
+6072,Barnhart,7 Hall North,3/20/2021,24,1110,1116,1,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,No Amp,Negative,40,0,0,,3,,3,,,3,0,42,overnight
+6073,Barnhart,Roof,3/20/2021,45,1115,1119,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,30.8,31.8,25.8,28.8,Positive (3/3),29.5,0,0,,3,,3,,,3,0,42,overnight
+6082,Barnhart,Roof,3/20/2021,46,1119,832,5,Roof Exhaust TF,PUF,0 confirmed positive cases and 0 traced in building,No Amp,No Amp,No Amp,27.8,Negative,40,0,0,,3,,3,,,3,0,42,overnight
+6071,Barnhart,2 Hall North,3/20/2021,24,1120,1112,7,TF,PUF,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,No Amp,Negative,40,0,0,,3,,3,,,3,0,42,overnight
+4971,Barnhart,Lobby,2/20/2021,52,1925,907,4,TF,PUF,NA,32,No Amp,No Amp,26.8,Negative,37.3,28,21,7,26,14,12,,,54,0,14,overnight
+3788,Barnhart,Lobby,2/8/2021,10,2121,800,3,TF,PUF,NA,No Amp,No Amp,No Amp,30.9,Negative,40,52,36,16,41,26,15,1,,93,1,2,overnight
+6059,Barnhart,Lobby,3/20/2021,96,NA,1105,NA,Negative Swab,Swab,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.8,Negative,40,0,0,,3,,3,,,3,0,42,
+6060,Barnhart,Lobby,3/20/2021,96,NA,1105,NA,Door South,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.5,Negative,40,0,0,,3,,3,,,3,0,42,
+6061,Barnhart,Lobby,3/20/2021,96,NA,1105,NA,Door West,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.2,Negative,40,0,0,,3,,3,,,3,0,42,
+6077,Barnhart,Lobby,3/20/2021,98,NA,849,NA,Negative Swab,Swab,0 confirmed positive cases and 0 traced in building,No Amp,No Amp,No Amp,27.1,Negative,40,0,0,,3,,3,,,3,0,42,
+6078,Barnhart,Lobby,3/20/2021,98,NA,849,NA,Door South,Settling Plate,0 confirmed positive cases and 0 traced in building,34.5,No Amp,No Amp,27,Negative,38.2,0,0,,3,,3,,,3,0,42,
+6079,Barnhart,Lobby,3/20/2021,98,NA,849,NA,Door West,Settling Plate,0 confirmed positive cases and 0 traced in building,No Amp,No Amp,No Amp,27.1,Negative,40,0,0,,3,,3,,,3,0,42,
+6065,Barnhart,Roof,3/20/2021,43,NA,1115,NA,Roof port,swab,0 confirmed positive cases and 7 traced in building on 7th floor South,33.5,No Amp,No Amp,27.7,Negative,37.8,0,0,,3,,3,,,3,0,42,
+6083,Barnhart,Roof,3/20/2021,45,NA,832,NA,Roof port,swab,0 confirmed positive cases and 0 traced in building,No Amp,No Amp,No Amp,28.9,Negative,40,0,0,,3,,3,,,3,0,42,
+6080,Barnhart,2 Hall North,3/21/2021,25,1112,846,7,TF,PUF,0 confirmed positive cases and 0 traced in building,No Amp,No Amp,No Amp,28,Negative,40,0,0,,3,,3,,,3,0,43,other
+6081,Barnhart,7 Hall North,3/21/2021,25,1116,836,1,TF,PUF,0 confirmed positive cases and 0 traced in building,No Amp,No Amp,No Amp,No Amp,Negative,40,0,0,,3,,3,,,3,0,43,overnight
+6075,Barnhart,Lobby,3/21/2021,98,1110,849,3,TF,PUF,0 confirmed positive cases and 0 traced in building,31.9,No Amp,No Amp,26.1,Negative,37.3,0,0,,3,,3,,,3,0,43,between
+6076,Barnhart,Lobby,3/21/2021,98,1110,849,4,TF,PUF,0 confirmed positive cases and 0 traced in building,32.1,No Amp,No Amp,27.5,Negative,37.4,0,0,,3,,3,,,3,0,43,between
+6068,Barnhart,Lobby,3/21/2021,97,NA,1110,NA,Negative Swab,Swab,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,28,Negative,40,0,0,,3,,3,,,3,0,43,
+6069,Barnhart,Lobby,3/21/2021,97,NA,1110,NA,Door South,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,34.5,No Amp,No Amp,27.9,Negative,38.2,0,0,,3,,3,,,3,0,43,
+6070,Barnhart,Lobby,3/21/2021,97,NA,1110,NA,Door West,Settling Plate,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.3,Negative,40,0,0,,3,,3,,,3,0,43,
+6074,Barnhart,Roof,3/21/2021,44,NA,1119,NA,Roof port,swab,0 confirmed positive cases and 7 traced in building on 7th floor South,No Amp,No Amp,No Amp,27.6,Negative,40,0,0,,3,,3,,,3,0,43,
